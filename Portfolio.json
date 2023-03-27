@@ -1,0 +1,4537 @@
+[{
+    "ClosedPrice":"101.0",
+    "CurrentPrice":"100.59",
+    "Name":"3M Company provides diversified technology services in the United States and internationally. The company operates through four segments: Safety and Industrial; Transportation and Electronics; Health Care; and Consumer. The Safety and Industrial segment offers industrial abrasives and finishing for metalworking applications; autobody repair solutions; closure systems for personal hygiene products",
+    "Sector":"Conglomerates",
+    "Symbol":"MMM"
+},
+{
+    "ClosedPrice":"66.29",
+    "CurrentPrice":"65.86",
+    "Name":"A. O. Smith Corporation manufactures and markets residential and commercial gas",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"AOS"
+},
+{
+    "ClosedPrice":"97.04",
+    "CurrentPrice":"97.2",
+    "Name":"Abbott Laboratories",
+    "Sector":"Medical Devices",
+    "Symbol":"ABT"
+},
+{
+    "ClosedPrice":"155.3",
+    "CurrentPrice":"156.215",
+    "Name":"AbbVie Inc. discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"ABBV"
+},
+{
+    "ClosedPrice":"271.66",
+    "CurrentPrice":"269.72",
+    "Name":"Accenture plc",
+    "Sector":"Information Technology Services",
+    "Symbol":"ACN"
+},
+{
+    "ClosedPrice":"79.68",
+    "CurrentPrice":"83.87",
+    "Name":"Activision Blizzard",
+    "Sector":"Electronic Gaming & Multimedia",
+    "Symbol":"ATVI"
+},
+{
+    "ClosedPrice":"369.0",
+    "CurrentPrice":"370.9",
+    "Name":"Adobe Inc.",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"ADBE"
+},
+{
+    "ClosedPrice":"111.14",
+    "CurrentPrice":"109.82",
+    "Name":"Advance Auto Parts",
+    "Sector":"Specialty Retail",
+    "Symbol":"AAP"
+},
+{
+    "ClosedPrice":"21.96",
+    "CurrentPrice":"21.752",
+    "Name":"The AES Corporation operates as a diversified power generation and utility company. It owns and/or operates power plants to generate and sell power to customers",
+    "Sector":"Utilities\u00e2\u20ac\u201dDiversified",
+    "Symbol":"AES"
+},
+{
+    "ClosedPrice":"62.53",
+    "CurrentPrice":"61.9",
+    "Name":"Aflac Incorporated",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"AFL"
+},
+{
+    "ClosedPrice":"131.13",
+    "CurrentPrice":"129.82",
+    "Name":"Agilent Technologies",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"A"
+},
+{
+    "ClosedPrice":"266.94",
+    "CurrentPrice":"266.98",
+    "Name":"Air Products and Chemicals",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"APD"
+},
+{
+    "ClosedPrice":"75.05",
+    "CurrentPrice":"75.0",
+    "Name":"Akamai Technologies",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"AKAM"
+},
+{
+    "ClosedPrice":"215.64",
+    "CurrentPrice":"212.51",
+    "Name":"Albemarle Corporation develops",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"ALB"
+},
+{
+    "ClosedPrice":"116.06",
+    "CurrentPrice":"116.125",
+    "Name":"Alexandria Real Estate Equities",
+    "Sector":"REIT\u00e2\u20ac\u201dOffice",
+    "Symbol":"ARE"
+},
+{
+    "ClosedPrice":"102.27",
+    "CurrentPrice":"99.94",
+    "Name":"Allegion plc manufactures and sells mechanical and electronic security products and solutions worldwide. The company offers door controls and systems and exit devices; locks",
+    "Sector":"Security & Protection Services",
+    "Symbol":"ALLE"
+},
+{
+    "ClosedPrice":"50.04",
+    "CurrentPrice":"50.87",
+    "Name":"Alliant Energy Corporation operates as a utility holding company that provides regulated electricity and natural gas services. It operates through three segments: Utility Electric Operations",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"LNT"
+},
+{
+    "ClosedPrice":"105.58",
+    "CurrentPrice":"103.935",
+    "Name":"The Allstate Corporation",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"ALL"
+},
+{
+    "ClosedPrice":"105.6",
+    "CurrentPrice":"104.12",
+    "Name":"Alphabet Inc. offers various products and platforms in the United States",
+    "Sector":"Internet Content & Information",
+    "Symbol":"GOOGL"
+},
+{
+    "ClosedPrice":"43.46",
+    "CurrentPrice":"43.58",
+    "Name":"Altria Group",
+    "Sector":"Tobacco",
+    "Symbol":"MO"
+},
+{
+    "ClosedPrice":"98.71",
+    "CurrentPrice":"97.005",
+    "Name":"Amazon.com",
+    "Sector":"Internet Retail",
+    "Symbol":"AMZN"
+},
+{
+    "ClosedPrice":"80.61",
+    "CurrentPrice":"82.645",
+    "Name":"Ameren Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"AEE"
+},
+{
+    "ClosedPrice":"13.63",
+    "CurrentPrice":"13.42",
+    "Name":"American Airlines Group Inc.",
+    "Sector":"Airlines",
+    "Symbol":"AAL"
+},
+{
+    "ClosedPrice":"85.41",
+    "CurrentPrice":"87.12",
+    "Name":"American Electric Power Company",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"AEP"
+},
+{
+    "ClosedPrice":"162.76",
+    "CurrentPrice":"158.42",
+    "Name":"American Express Company",
+    "Sector":"Credit Services",
+    "Symbol":"AXP"
+},
+{
+    "ClosedPrice":"47.16",
+    "CurrentPrice":"46.17",
+    "Name":"American International Group",
+    "Sector":"Insurance\u00e2\u20ac\u201dDiversified",
+    "Symbol":"AIG"
+},
+{
+    "ClosedPrice":"191.62",
+    "CurrentPrice":"193.46",
+    "Name":"American Tower Corporation",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"AMT"
+},
+{
+    "ClosedPrice":"136.72",
+    "CurrentPrice":"139.4",
+    "Name":"American Water Works Company",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Water",
+    "Symbol":"AWK"
+},
+{
+    "ClosedPrice":"297.16",
+    "CurrentPrice":"284.565",
+    "Name":"Ameriprise Financial",
+    "Sector":"Asset Management",
+    "Symbol":"AMP"
+},
+{
+    "ClosedPrice":"150.93",
+    "CurrentPrice":"153.92",
+    "Name":"AmerisourceBergen Corporation sources and distributes pharmaceutical products. Its U.S. Healthcare Solutions segment distributes brand-name and generic pharmaceuticals",
+    "Sector":"Medical Distribution",
+    "Symbol":"ABC"
+},
+{
+    "ClosedPrice":"138.35",
+    "CurrentPrice":"137.19",
+    "Name":"AMETEK",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"AME"
+},
+{
+    "ClosedPrice":"233.1",
+    "CurrentPrice":"235.198",
+    "Name":"Amgen Inc. discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"AMGN"
+},
+{
+    "ClosedPrice":"78.38",
+    "CurrentPrice":"77.45",
+    "Name":"Amphenol Corporation",
+    "Sector":"Electronic Components",
+    "Symbol":"APH"
+},
+{
+    "ClosedPrice":"314.65",
+    "CurrentPrice":"312.38",
+    "Name":"ANSYS",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"ANSS"
+},
+{
+    "ClosedPrice":"34.01",
+    "CurrentPrice":"33.81",
+    "Name":"APA Corporation",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"APA"
+},
+{
+    "ClosedPrice":"158.93",
+    "CurrentPrice":"158.255",
+    "Name":"Apple Inc. designs",
+    "Sector":"Consumer Electronics",
+    "Symbol":"AAPL"
+},
+{
+    "ClosedPrice":"122.78",
+    "CurrentPrice":"118.715",
+    "Name":"Applied Materials",
+    "Sector":"Semiconductor Equipment & Materials",
+    "Symbol":"AMAT"
+},
+{
+    "ClosedPrice":"107.7",
+    "CurrentPrice":"106.13",
+    "Name":"Aptiv PLC engages in design",
+    "Sector":"Auto Parts",
+    "Symbol":"APTV"
+},
+{
+    "ClosedPrice":"75.13",
+    "CurrentPrice":"75.62",
+    "Name":"Archer-Daniels-Midland Company procures",
+    "Sector":"Farm Products",
+    "Symbol":"ADM"
+},
+{
+    "ClosedPrice":"169.39",
+    "CurrentPrice":"168.38",
+    "Name":"Arista Networks",
+    "Sector":"Computer Hardware",
+    "Symbol":"ANET"
+},
+{
+    "ClosedPrice":"184.44",
+    "CurrentPrice":"183.365",
+    "Name":"Arthur J. Gallagher & Co.",
+    "Sector":"Insurance Brokers",
+    "Symbol":"AJG"
+},
+{
+    "ClosedPrice":"112.3",
+    "CurrentPrice":"112.03",
+    "Name":"Assurant",
+    "Sector":"Insurance\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"AIZ"
+},
+{
+    "ClosedPrice":"18.46",
+    "CurrentPrice":"18.4608",
+    "Name":"AT&T Inc. provides telecommunications and technology services worldwide. The company operates through two segments",
+    "Sector":"Telecom Services",
+    "Symbol":"T"
+},
+{
+    "ClosedPrice":"106.52",
+    "CurrentPrice":"107.26",
+    "Name":"Atmos Energy Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Gas",
+    "Symbol":"ATO"
+},
+{
+    "ClosedPrice":"201.14",
+    "CurrentPrice":"199.165",
+    "Name":"Autodesk",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"ADSK"
+},
+{
+    "ClosedPrice":"213.62",
+    "CurrentPrice":"212.787",
+    "Name":"Automatic Data Processing",
+    "Sector":"Staffing & Employment Services",
+    "Symbol":"ADP"
+},
+{
+    "ClosedPrice":"2307.82",
+    "CurrentPrice":"2311.14",
+    "Name":"AutoZone",
+    "Sector":"Specialty Retail",
+    "Symbol":"AZO"
+},
+{
+    "ClosedPrice":"154.07",
+    "CurrentPrice":"153.995",
+    "Name":"As of December 31",
+    "Sector":"REIT\u00e2\u20ac\u201dResidential",
+    "Symbol":"AVB"
+},
+{
+    "ClosedPrice":"169.63",
+    "CurrentPrice":"169.18",
+    "Name":"Avery Dennison Corporation operates as materials science and digital identification solutions company. It provides branding and information labeling solutions",
+    "Sector":"Packaging & Containers",
+    "Symbol":"AVY"
+},
+{
+    "ClosedPrice":"26.97",
+    "CurrentPrice":"26.4692",
+    "Name":"Bank of America Corporation",
+    "Sector":"Banks\u00e2\u20ac\u201dDiversified",
+    "Symbol":"BAC"
+},
+{
+    "ClosedPrice":"38.12",
+    "CurrentPrice":"38.57",
+    "Name":"Baxter International Inc.",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"BAX"
+},
+{
+    "ClosedPrice":"236.38",
+    "CurrentPrice":"238.45",
+    "Name":"Becton",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"BDX"
+},
+{
+    "ClosedPrice":"74.59",
+    "CurrentPrice":"74.25",
+    "Name":"Best Buy Co.",
+    "Sector":"Specialty Retail",
+    "Symbol":"BBY"
+},
+{
+    "ClosedPrice":"456.32",
+    "CurrentPrice":"453.81",
+    "Name":"Bio-Rad Laboratories",
+    "Sector":"Medical Devices",
+    "Symbol":"BIO"
+},
+{
+    "ClosedPrice":"265.17",
+    "CurrentPrice":"265.085",
+    "Name":"Biogen Inc. discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"BIIB"
+},
+{
+    "ClosedPrice":"651.78",
+    "CurrentPrice":"639.93",
+    "Name":"BlackRock",
+    "Sector":"Asset Management",
+    "Symbol":"BLK"
+},
+{
+    "ClosedPrice":"197.9",
+    "CurrentPrice":"194.62",
+    "Name":"The Boeing Company",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"BA"
+},
+{
+    "ClosedPrice":"2538.76",
+    "CurrentPrice":"2474.65",
+    "Name":"Booking Holdings Inc. provides travel and restaurant online reservation and related services worldwide. The company operates Booking.com",
+    "Sector":"Travel Services",
+    "Symbol":"BKNG"
+},
+{
+    "ClosedPrice":"46.62",
+    "CurrentPrice":"46.33",
+    "Name":"BorgWarner Inc. provides solutions for combustion",
+    "Sector":"Auto Parts",
+    "Symbol":"BWA"
+},
+{
+    "ClosedPrice":"47.37",
+    "CurrentPrice":"47.38",
+    "Name":"Boston Properties (NYSE:BXP) is the largest publicly-held developer and owner of Class A office properties in the United States",
+    "Sector":"REIT\u00e2\u20ac\u201dOffice",
+    "Symbol":"BXP"
+},
+{
+    "ClosedPrice":"47.94",
+    "CurrentPrice":"47.64",
+    "Name":"Boston Scientific Corporation develops",
+    "Sector":"Medical Devices",
+    "Symbol":"BSX"
+},
+{
+    "ClosedPrice":"66.98",
+    "CurrentPrice":"66.995",
+    "Name":"Bristol-Myers Squibb Company discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"BMY"
+},
+{
+    "ClosedPrice":"639.23",
+    "CurrentPrice":"629.7536",
+    "Name":"Broadcom Inc. designs",
+    "Sector":"Semiconductors",
+    "Symbol":"AVGO"
+},
+{
+    "ClosedPrice":"137.86",
+    "CurrentPrice":"138.5",
+    "Name":"Broadridge Financial Solutions",
+    "Sector":"Information Technology Services",
+    "Symbol":"BR"
+},
+{
+    "ClosedPrice":"94.87",
+    "CurrentPrice":"94.445",
+    "Name":"C.H. Robinson Worldwide",
+    "Sector":"Integrated Freight & Logistics",
+    "Symbol":"CHRW"
+},
+{
+    "ClosedPrice":"207.0",
+    "CurrentPrice":"203.77",
+    "Name":"Cadence Design Systems",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"CDNS"
+},
+{
+    "ClosedPrice":"53.5",
+    "CurrentPrice":"54.14",
+    "Name":"Campbell Soup Company",
+    "Sector":"Packaged Foods",
+    "Symbol":"CPB"
+},
+{
+    "ClosedPrice":"89.91",
+    "CurrentPrice":"87.54",
+    "Name":"Capital One Financial Corporation operates as the financial services holding company for the Capital One Bank (USA)",
+    "Sector":"Credit Services",
+    "Symbol":"COF"
+},
+{
+    "ClosedPrice":"69.01",
+    "CurrentPrice":"69.2597",
+    "Name":"Cardinal Health",
+    "Sector":"Medical Distribution",
+    "Symbol":"CAH"
+},
+{
+    "ClosedPrice":"56.73",
+    "CurrentPrice":"56.56",
+    "Name":"CarMax",
+    "Sector":"Auto & Truck Dealerships",
+    "Symbol":"KMX"
+},
+{
+    "ClosedPrice":"9.22",
+    "CurrentPrice":"9.0767",
+    "Name":"Carnival Corporation & plc engages in the provision of leisure travel services. The company operates a fleet of more than 90 ships visit approximately 700 ports under AIDA Cruises",
+    "Sector":"Travel Services",
+    "Symbol":"CCL"
+},
+{
+    "ClosedPrice":"219.44",
+    "CurrentPrice":"213.91",
+    "Name":"Caterpillar Inc. manufactures and sells construction and mining equipment",
+    "Sector":"Farm & Heavy Construction Machinery",
+    "Symbol":"CAT"
+},
+{
+    "ClosedPrice":"127.18",
+    "CurrentPrice":"127.825",
+    "Name":"Cboe Global Markets",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"CBOE"
+},
+{
+    "ClosedPrice":"68.91",
+    "CurrentPrice":"66.765",
+    "Name":"CBRE Group",
+    "Sector":"Real Estate Services",
+    "Symbol":"CBRE"
+},
+{
+    "ClosedPrice":"191.1",
+    "CurrentPrice":"187.78",
+    "Name":"CDW Corporation provides information technology (IT) solutions in the United States",
+    "Sector":"Information Technology Services",
+    "Symbol":"CDW"
+},
+{
+    "ClosedPrice":"99.55",
+    "CurrentPrice":"99.05",
+    "Name":"Celanese Corporation",
+    "Sector":"Chemicals",
+    "Symbol":"CE"
+},
+{
+    "ClosedPrice":"62.58",
+    "CurrentPrice":"63.1665",
+    "Name":"Centene Corporation operates as a healthcare enterprise that provides programs and services to under-insured and uninsured families",
+    "Sector":"Healthcare Plans",
+    "Symbol":"CNC"
+},
+{
+    "ClosedPrice":"27.32",
+    "CurrentPrice":"27.865",
+    "Name":"CenterPoint Energy",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"CNP"
+},
+{
+    "ClosedPrice":"70.0",
+    "CurrentPrice":"68.2658",
+    "Name":"CF Industries Holdings",
+    "Sector":"Agricultural Inputs",
+    "Symbol":"CF"
+},
+{
+    "ClosedPrice":"52.89",
+    "CurrentPrice":"53.22",
+    "Name":"The Charles Schwab Corporation",
+    "Sector":"Capital Markets",
+    "Symbol":"SCHW"
+},
+{
+    "ClosedPrice":"342.17",
+    "CurrentPrice":"337.54",
+    "Name":"Charter Communications",
+    "Sector":"Telecom Services",
+    "Symbol":"CHTR"
+},
+{
+    "ClosedPrice":"154.52",
+    "CurrentPrice":"153.4",
+    "Name":"Chevron Corporation",
+    "Sector":"Oil & Gas Integrated",
+    "Symbol":"CVX"
+},
+{
+    "ClosedPrice":"1632.53",
+    "CurrentPrice":"1616.35",
+    "Name":"Chipotle Mexican Grill",
+    "Sector":"Restaurants",
+    "Symbol":"CMG"
+},
+{
+    "ClosedPrice":"186.01",
+    "CurrentPrice":"184.7573",
+    "Name":"Chubb Limited provides insurance and reinsurance products worldwide. The company's North America Commercial P&C Insurance segment offers commercial property",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"CB"
+},
+{
+    "ClosedPrice":"84.32",
+    "CurrentPrice":"85.485",
+    "Name":"Church & Dwight Co.",
+    "Sector":"Household & Personal Products",
+    "Symbol":"CHD"
+},
+{
+    "ClosedPrice":"256.58",
+    "CurrentPrice":"257.98",
+    "Name":"The Cigna Group",
+    "Sector":"Healthcare Plans",
+    "Symbol":"CI"
+},
+{
+    "ClosedPrice":"105.98",
+    "CurrentPrice":"104.9212",
+    "Name":"Cincinnati Financial Corporation",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"CINF"
+},
+{
+    "ClosedPrice":"433.15",
+    "CurrentPrice":"431.0",
+    "Name":"Cintas Corporation provides corporate identity uniforms and related business services primarily in the United States",
+    "Sector":"Specialty Business Services",
+    "Symbol":"CTAS"
+},
+{
+    "ClosedPrice":"49.73",
+    "CurrentPrice":"49.89",
+    "Name":"Cisco Systems",
+    "Sector":"Communication Equipment",
+    "Symbol":"CSCO"
+},
+{
+    "ClosedPrice":"43.45",
+    "CurrentPrice":"42.265",
+    "Name":"Citigroup Inc.",
+    "Sector":"Banks\u00e2\u20ac\u201dDiversified",
+    "Symbol":"C"
+},
+{
+    "ClosedPrice":"29.89",
+    "CurrentPrice":"30.335",
+    "Name":"Citizens Financial Group",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"CFG"
+},
+{
+    "ClosedPrice":"180.03",
+    "CurrentPrice":"181.64",
+    "Name":"CME Group Inc.",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"CME"
+},
+{
+    "ClosedPrice":"57.96",
+    "CurrentPrice":"59.26",
+    "Name":"CMS Energy Corporation operates as an energy company primarily in Michigan. The company operates through three segments: Electric Utility; Gas Utility; and Enterprises. The Electric Utility segment is involved in the generation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"CMS"
+},
+{
+    "ClosedPrice":"59.92",
+    "CurrentPrice":"60.3256",
+    "Name":"The Coca-Cola Company",
+    "Sector":"Beverages\u00e2\u20ac\u201dNon-Alcoholic",
+    "Symbol":"KO"
+},
+{
+    "ClosedPrice":"58.16",
+    "CurrentPrice":"57.52",
+    "Name":"Cognizant Technology Solutions Corporation",
+    "Sector":"Information Technology Services",
+    "Symbol":"CTSH"
+},
+{
+    "ClosedPrice":"71.83",
+    "CurrentPrice":"72.715",
+    "Name":"Colgate-Palmolive Company",
+    "Sector":"Household & Personal Products",
+    "Symbol":"CL"
+},
+{
+    "ClosedPrice":"35.97",
+    "CurrentPrice":"35.68",
+    "Name":"Comcast Corporation operates as a media and technology company worldwide. It operates through Cable Communications",
+    "Sector":"Telecom Services",
+    "Symbol":"CMCSA"
+},
+{
+    "ClosedPrice":"40.7",
+    "CurrentPrice":"40.085",
+    "Name":"Comerica Incorporated",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"CMA"
+},
+{
+    "ClosedPrice":"36.57",
+    "CurrentPrice":"36.81",
+    "Name":"Conagra Brands",
+    "Sector":"Packaged Foods",
+    "Symbol":"CAG"
+},
+{
+    "ClosedPrice":"96.42",
+    "CurrentPrice":"94.11",
+    "Name":"ConocoPhillips explores for",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"COP"
+},
+{
+    "ClosedPrice":"91.73",
+    "CurrentPrice":"93.72",
+    "Name":"Consolidated Edison",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"ED"
+},
+{
+    "ClosedPrice":"214.99",
+    "CurrentPrice":"215.835",
+    "Name":"Constellation Brands",
+    "Sector":"Beverages\u00e2\u20ac\u201dWineries & Distilleries",
+    "Symbol":"STZ"
+},
+{
+    "ClosedPrice":"71.23",
+    "CurrentPrice":"70.28",
+    "Name":"Copart",
+    "Sector":"Auto & Truck Dealerships",
+    "Symbol":"CPRT"
+},
+{
+    "ClosedPrice":"32.66",
+    "CurrentPrice":"32.235",
+    "Name":"Corning Incorporated engages in the display technologies",
+    "Sector":"Electronic Components",
+    "Symbol":"GLW"
+},
+{
+    "ClosedPrice":"487.76",
+    "CurrentPrice":"491.18",
+    "Name":"Costco Wholesale Corporation",
+    "Sector":"Discount Stores",
+    "Symbol":"COST"
+},
+{
+    "ClosedPrice":"123.75",
+    "CurrentPrice":"124.825",
+    "Name":"Crown Castle owns",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"CCI"
+},
+{
+    "ClosedPrice":"28.08",
+    "CurrentPrice":"27.775",
+    "Name":"CSX Corporation",
+    "Sector":"Railroads",
+    "Symbol":"CSX"
+},
+{
+    "ClosedPrice":"226.19",
+    "CurrentPrice":"221.215",
+    "Name":"Cummins Inc. designs",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"CMI"
+},
+{
+    "ClosedPrice":"72.37",
+    "CurrentPrice":"72.767",
+    "Name":"CVS Health Corporation provides health services in the United States. It operates through Health Care Benefits",
+    "Sector":"Healthcare Plans",
+    "Symbol":"CVS"
+},
+{
+    "ClosedPrice":"96.28",
+    "CurrentPrice":"95.7",
+    "Name":"D.R. Horton",
+    "Sector":"Residential Construction",
+    "Symbol":"DHI"
+},
+{
+    "ClosedPrice":"246.93",
+    "CurrentPrice":"244.79",
+    "Name":"Danaher Corporation designs",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"DHR"
+},
+{
+    "ClosedPrice":"150.52",
+    "CurrentPrice":"151.81",
+    "Name":"Darden Restaurants",
+    "Sector":"Restaurants",
+    "Symbol":"DRI"
+},
+{
+    "ClosedPrice":"75.24",
+    "CurrentPrice":"75.0606",
+    "Name":"DaVita Inc. provides kidney dialysis services for patients suffering from chronic kidney failure in the United States. The company operates kidney dialysis centers and provides related lab services in outpatient dialysis centers. It also offers outpatient",
+    "Sector":"Medical Care Facilities",
+    "Symbol":"DVA"
+},
+{
+    "ClosedPrice":"391.85",
+    "CurrentPrice":"382.72",
+    "Name":"Deere & Company manufactures and distributes various equipment worldwide. The company operates through four segments: Production and Precision Agriculture",
+    "Sector":"Farm & Heavy Construction Machinery",
+    "Symbol":"DE"
+},
+{
+    "ClosedPrice":"32.14",
+    "CurrentPrice":"31.15",
+    "Name":"Delta Air Lines",
+    "Sector":"Airlines",
+    "Symbol":"DAL"
+},
+{
+    "ClosedPrice":"36.76",
+    "CurrentPrice":"36.62",
+    "Name":"DENTSPLY SIRONA Inc. manufactures and sells various dental products and technologies for professional dental market worldwide. The company operates through two segments",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"XRAY"
+},
+{
+    "ClosedPrice":"46.72",
+    "CurrentPrice":"46.26",
+    "Name":"Devon Energy Corporation",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"DVN"
+},
+{
+    "ClosedPrice":"114.5",
+    "CurrentPrice":"113.16",
+    "Name":"DexCom",
+    "Sector":"Medical Devices",
+    "Symbol":"DXCM"
+},
+{
+    "ClosedPrice":"93.51",
+    "CurrentPrice":"92.565",
+    "Name":"Digital Realty supports the world's leading enterprises and service providers by delivering the full spectrum of data center",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"DLR"
+},
+{
+    "ClosedPrice":"93.57",
+    "CurrentPrice":"91.01",
+    "Name":"Discover Financial Services",
+    "Sector":"Credit Services",
+    "Symbol":"DFS"
+},
+{
+    "ClosedPrice":"8.84",
+    "CurrentPrice":"8.505",
+    "Name":"DISH Network Corporation",
+    "Sector":"Telecom Services",
+    "Symbol":"DISH"
+},
+{
+    "ClosedPrice":"202.85",
+    "CurrentPrice":"203.75",
+    "Name":"Dollar General Corporation",
+    "Sector":"Discount Stores",
+    "Symbol":"DG"
+},
+{
+    "ClosedPrice":"135.46",
+    "CurrentPrice":"136.0",
+    "Name":"Dollar Tree",
+    "Sector":"Discount Stores",
+    "Symbol":"DLTR"
+},
+{
+    "ClosedPrice":"52.22",
+    "CurrentPrice":"52.8917",
+    "Name":"Dominion Energy",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"D"
+},
+{
+    "ClosedPrice":"315.43",
+    "CurrentPrice":"313.39",
+    "Name":"Domino's Pizza",
+    "Sector":"Restaurants",
+    "Symbol":"DPZ"
+},
+{
+    "ClosedPrice":"140.53",
+    "CurrentPrice":"139.5",
+    "Name":"Dover Corporation provides equipment and components",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"DOV"
+},
+{
+    "ClosedPrice":"102.66",
+    "CurrentPrice":"104.84",
+    "Name":"DTE Energy Company engages in the utility operations. The company's Electric segment generates",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"DTE"
+},
+{
+    "ClosedPrice":"91.55",
+    "CurrentPrice":"93.085",
+    "Name":"Duke Energy Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"DUK"
+},
+{
+    "ClosedPrice":"68.36",
+    "CurrentPrice":"67.99",
+    "Name":"DuPont de Nemours",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"DD"
+},
+{
+    "ClosedPrice":"23.25",
+    "CurrentPrice":"23.04",
+    "Name":"DXC Technology Company",
+    "Sector":"Information Technology Services",
+    "Symbol":"DXC"
+},
+{
+    "ClosedPrice":"78.73",
+    "CurrentPrice":"78.2725",
+    "Name":"Eastman Chemical Company operates as a specialty materials company in the United States and internationally. The company's Additives & Functional Products segment offers hydrocarbon resins; organic acid-based solutions; amine derivative-based building blocks; metam-based soil fumigants",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"EMN"
+},
+{
+    "ClosedPrice":"164.54",
+    "CurrentPrice":"162.5",
+    "Name":"Eaton Corporation plc operates as a power management company worldwide. The company's Electrical Americas and Electrical Global segment provides electrical components",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"ETN"
+},
+{
+    "ClosedPrice":"42.45",
+    "CurrentPrice":"41.89",
+    "Name":"eBay Inc. operates marketplace platforms that connect buyers and sellers in the United States and internationally. The company's marketplace platform includes its online marketplace at ebay.com and the eBay suite of mobile apps. Its platforms enable users to list",
+    "Sector":"Internet Retail",
+    "Symbol":"EBAY"
+},
+{
+    "ClosedPrice":"157.04",
+    "CurrentPrice":"157.58",
+    "Name":"Ecolab Inc. provides water",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"ECL"
+},
+{
+    "ClosedPrice":"66.04",
+    "CurrentPrice":"66.87",
+    "Name":"Edison International",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"EIX"
+},
+{
+    "ClosedPrice":"79.55",
+    "CurrentPrice":"79.875",
+    "Name":"Edwards Lifesciences Corporation provides products and technologies for structural heart disease",
+    "Sector":"Medical Devices",
+    "Symbol":"EW"
+},
+{
+    "ClosedPrice":"116.04",
+    "CurrentPrice":"118.17",
+    "Name":"Electronic Arts Inc. develops",
+    "Sector":"Electronic Gaming & Multimedia",
+    "Symbol":"EA"
+},
+{
+    "ClosedPrice":"83.1",
+    "CurrentPrice":"81.91",
+    "Name":"Emerson Electric Co.",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"EMR"
+},
+{
+    "ClosedPrice":"100.35",
+    "CurrentPrice":"102.01",
+    "Name":"Entergy Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"ETR"
+},
+{
+    "ClosedPrice":"104.78",
+    "CurrentPrice":"103.6317",
+    "Name":"EOG Resources",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"EOG"
+},
+{
+    "ClosedPrice":"195.83",
+    "CurrentPrice":"194.325",
+    "Name":"Equifax Inc. operates as a data",
+    "Sector":"Consulting Services",
+    "Symbol":"EFX"
+},
+{
+    "ClosedPrice":"666.37",
+    "CurrentPrice":"666.02",
+    "Name":"Equinix (Nasdaq: EQIX) is the world's digital infrastructure company",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"EQIX"
+},
+{
+    "ClosedPrice":"54.7975",
+    "CurrentPrice":"54.8725",
+    "Name":"Equity Residential is committed to creating communities where people thrive. The Company",
+    "Sector":"REIT\u00e2\u20ac\u201dResidential",
+    "Symbol":"EQR"
+},
+{
+    "ClosedPrice":"196.17",
+    "CurrentPrice":"197.39",
+    "Name":"Essex Property Trust",
+    "Sector":"REIT\u00e2\u20ac\u201dResidential",
+    "Symbol":"ESS"
+},
+{
+    "ClosedPrice":"238.72",
+    "CurrentPrice":"238.27",
+    "Name":"The Est\u00c3\u00a9e Lauder Companies Inc. manufactures",
+    "Sector":"Household & Personal Products",
+    "Symbol":"EL"
+},
+{
+    "ClosedPrice":"341.79",
+    "CurrentPrice":"339.825",
+    "Name":"Everest Re Group",
+    "Sector":"Insurance\u00e2\u20ac\u201dReinsurance",
+    "Symbol":"RE"
+},
+{
+    "ClosedPrice":"73.25",
+    "CurrentPrice":"74.32",
+    "Name":"Eversource Energy",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"ES"
+},
+{
+    "ClosedPrice":"39.2",
+    "CurrentPrice":"39.455",
+    "Name":"Exelon Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"EXC"
+},
+{
+    "ClosedPrice":"92.65",
+    "CurrentPrice":"89.29",
+    "Name":"Expedia Group",
+    "Sector":"Travel Services",
+    "Symbol":"EXPE"
+},
+{
+    "ClosedPrice":"104.56",
+    "CurrentPrice":"104.19",
+    "Name":"Expeditors International of Washington",
+    "Sector":"Integrated Freight & Logistics",
+    "Symbol":"EXPD"
+},
+{
+    "ClosedPrice":"149.27",
+    "CurrentPrice":"150.56",
+    "Name":"Extra Space Storage Inc.",
+    "Sector":"REIT\u00e2\u20ac\u201dIndustrial",
+    "Symbol":"EXR"
+},
+{
+    "ClosedPrice":"103.41",
+    "CurrentPrice":"101.74",
+    "Name":"Exxon Mobil Corporation explores for and produces crude oil and natural gas in the United States and internationally. It operates through Upstream",
+    "Sector":"Oil & Gas Integrated",
+    "Symbol":"XOM"
+},
+{
+    "ClosedPrice":"140.3",
+    "CurrentPrice":"139.21",
+    "Name":"F5",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"FFIV"
+},
+{
+    "ClosedPrice":"51.74",
+    "CurrentPrice":"51.605",
+    "Name":"Fastenal Company",
+    "Sector":"Industrial Distribution",
+    "Symbol":"FAST"
+},
+{
+    "ClosedPrice":"91.16",
+    "CurrentPrice":"90.83",
+    "Name":"Federal Realty is a recognized leader in the ownership",
+    "Sector":"REIT\u00e2\u20ac\u201dRetail",
+    "Symbol":"FRT"
+},
+{
+    "ClosedPrice":"216.92",
+    "CurrentPrice":"216.3224",
+    "Name":"FedEx Corporation provides transportation",
+    "Sector":"Integrated Freight & Logistics",
+    "Symbol":"FDX"
+},
+{
+    "ClosedPrice":"49.97",
+    "CurrentPrice":"49.0",
+    "Name":"Fidelity National Information Services",
+    "Sector":"Information Technology Services",
+    "Symbol":"FIS"
+},
+{
+    "ClosedPrice":"25.34",
+    "CurrentPrice":"25.1751",
+    "Name":"Fifth Third Bancorp operates as a diversified financial services company in the United States. It operates through three segments: Commercial Banking",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"FITB"
+},
+{
+    "ClosedPrice":"12.53",
+    "CurrentPrice":"12.299",
+    "Name":"First Republic Bank",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"FRC"
+},
+{
+    "ClosedPrice":"37.75",
+    "CurrentPrice":"38.368",
+    "Name":"FirstEnergy Corp.",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"FE"
+},
+{
+    "ClosedPrice":"111.1",
+    "CurrentPrice":"110.33",
+    "Name":"Fiserv",
+    "Sector":"Information Technology Services",
+    "Symbol":"FISV"
+},
+{
+    "ClosedPrice":"199.76",
+    "CurrentPrice":"196.887",
+    "Name":"FLEETCOR Technologies",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"FLT"
+},
+{
+    "ClosedPrice":"31.41",
+    "CurrentPrice":"31.005",
+    "Name":"Flowserve Corporation  designs",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"FLS"
+},
+{
+    "ClosedPrice":"116.96",
+    "CurrentPrice":"115.69",
+    "Name":"FMC Corporation",
+    "Sector":"Agricultural Inputs",
+    "Symbol":"FMC"
+},
+{
+    "ClosedPrice":"11.42",
+    "CurrentPrice":"11.345",
+    "Name":"Ford Motor Company develops",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"F"
+},
+{
+    "ClosedPrice":"63.25",
+    "CurrentPrice":"62.2",
+    "Name":"Fortinet",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"FTNT"
+},
+{
+    "ClosedPrice":"64.53",
+    "CurrentPrice":"64.19",
+    "Name":"Fortive Corporation designs",
+    "Sector":"Scientific & Technical Instruments",
+    "Symbol":"FTV"
+},
+{
+    "ClosedPrice":"26.19",
+    "CurrentPrice":"25.91",
+    "Name":"Franklin Resources",
+    "Sector":"Asset Management",
+    "Symbol":"BEN"
+},
+{
+    "ClosedPrice":"37.79",
+    "CurrentPrice":"37.54",
+    "Name":"Freeport-McMoRan Inc. engages in the mining of mineral properties in North America",
+    "Sector":"Copper",
+    "Symbol":"FCX"
+},
+{
+    "ClosedPrice":"8.84",
+    "CurrentPrice":"8.819",
+    "Name":"The Gap",
+    "Sector":"Apparel Retail",
+    "Symbol":"GPS"
+},
+{
+    "ClosedPrice":"95.09",
+    "CurrentPrice":"94.675",
+    "Name":"Garmin Ltd. designs",
+    "Sector":"Scientific & Technical Instruments",
+    "Symbol":"GRMN"
+},
+{
+    "ClosedPrice":"308.54",
+    "CurrentPrice":"306.02",
+    "Name":"Gartner",
+    "Sector":"Information Technology Services",
+    "Symbol":"IT"
+},
+{
+    "ClosedPrice":"220.11",
+    "CurrentPrice":"221.19",
+    "Name":"General Dynamics Corporation operates as an aerospace and defense company worldwide. It operates through four segments: Aerospace",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"GD"
+},
+{
+    "ClosedPrice":"91.59",
+    "CurrentPrice":"91.03",
+    "Name":"General Electric Company operates as a high-tech industrial company in Europe",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"GE"
+},
+{
+    "ClosedPrice":"82.15",
+    "CurrentPrice":"83.23",
+    "Name":"General Mills",
+    "Sector":"Packaged Foods",
+    "Symbol":"GIS"
+},
+{
+    "ClosedPrice":"33.74",
+    "CurrentPrice":"33.09",
+    "Name":"General Motors Company designs",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"GM"
+},
+{
+    "ClosedPrice":"154.29",
+    "CurrentPrice":"157.05",
+    "Name":"Genuine Parts Company distributes automotive replacement parts",
+    "Sector":"Specialty Retail",
+    "Symbol":"GPC"
+},
+{
+    "ClosedPrice":"78.76",
+    "CurrentPrice":"78.87",
+    "Name":"Gilead Sciences",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"GILD"
+},
+{
+    "ClosedPrice":"98.44",
+    "CurrentPrice":"96.345",
+    "Name":"Global Payments Inc. provides payment technology and software solutions for card",
+    "Sector":"Specialty Business Services",
+    "Symbol":"GPN"
+},
+{
+    "ClosedPrice":"106.36",
+    "CurrentPrice":"105.025",
+    "Name":"Globe Life Inc.",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"GL"
+},
+{
+    "ClosedPrice":"314.85",
+    "CurrentPrice":"308.34",
+    "Name":"The Goldman Sachs Group",
+    "Sector":"Capital Markets",
+    "Symbol":"GS"
+},
+{
+    "ClosedPrice":"665.38",
+    "CurrentPrice":"655.8",
+    "Name":"W.W. Grainger",
+    "Sector":"Industrial Distribution",
+    "Symbol":"GWW"
+},
+{
+    "ClosedPrice":"29.42",
+    "CurrentPrice":"29.285",
+    "Name":"Halliburton Company provides products and services to the energy industry worldwide. It operates in two segments",
+    "Sector":"Oil & Gas Equipment & Services",
+    "Symbol":"HAL"
+},
+{
+    "ClosedPrice":"4.9",
+    "CurrentPrice":"4.9019",
+    "Name":"Hanesbrands Inc.",
+    "Sector":"Apparel Manufacturing",
+    "Symbol":"HBI"
+},
+{
+    "ClosedPrice":"65.79",
+    "CurrentPrice":"65.28",
+    "Name":"The Hartford Financial Services Group",
+    "Sector":"Insurance\u00e2\u20ac\u201dDiversified",
+    "Symbol":"HIG"
+},
+{
+    "ClosedPrice":"48.64",
+    "CurrentPrice":"48.61",
+    "Name":"Hasbro",
+    "Sector":"Leisure",
+    "Symbol":"HAS"
+},
+{
+    "ClosedPrice":"252.77",
+    "CurrentPrice":"250.92",
+    "Name":"HCA Healthcare",
+    "Sector":"Medical Care Facilities",
+    "Symbol":"HCA"
+},
+{
+    "ClosedPrice":"20.3",
+    "CurrentPrice":"20.6",
+    "Name":"Healthpeak Properties",
+    "Sector":"REIT\u00e2\u20ac\u201dHealthcare Facilities",
+    "Symbol":"PEAK"
+},
+{
+    "ClosedPrice":"78.13",
+    "CurrentPrice":"78.73",
+    "Name":"Henry Schein",
+    "Sector":"Medical Distribution",
+    "Symbol":"HSIC"
+},
+{
+    "ClosedPrice":"120.56",
+    "CurrentPrice":"119.79",
+    "Name":"Hess Corporation",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"HES"
+},
+{
+    "ClosedPrice":"14.27",
+    "CurrentPrice":"14.085",
+    "Name":"Hewlett Packard Enterprise Company provides solutions that allow customers to capture",
+    "Sector":"Communication Equipment",
+    "Symbol":"HPE"
+},
+{
+    "ClosedPrice":"135.67",
+    "CurrentPrice":"130.33",
+    "Name":"Hilton Worldwide Holdings Inc.",
+    "Sector":"Lodging",
+    "Symbol":"HLT"
+},
+{
+    "ClosedPrice":"78.53",
+    "CurrentPrice":"78.73",
+    "Name":"Hologic",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"HOLX"
+},
+{
+    "ClosedPrice":"283.91",
+    "CurrentPrice":"281.95",
+    "Name":"The Home Depot",
+    "Sector":"Home Improvement Retail",
+    "Symbol":"HD"
+},
+{
+    "ClosedPrice":"186.92",
+    "CurrentPrice":"185.265",
+    "Name":"Honeywell International Inc. operates as a diversified technology and manufacturing company worldwide. Its Aerospace segment offers auxiliary power units",
+    "Sector":"Conglomerates",
+    "Symbol":"HON"
+},
+{
+    "ClosedPrice":"37.95",
+    "CurrentPrice":"38.415",
+    "Name":"Hormel Foods Corporation develops",
+    "Sector":"Packaged Foods",
+    "Symbol":"HRL"
+},
+{
+    "ClosedPrice":"14.86",
+    "CurrentPrice":"14.675",
+    "Name":"Host Hotels & Resorts",
+    "Sector":"REIT\u00e2\u20ac\u201dHotel & Motel",
+    "Symbol":"HST"
+},
+{
+    "ClosedPrice":"27.72",
+    "CurrentPrice":"27.305",
+    "Name":"HP Inc. provides personal computing and other access devices",
+    "Sector":"Computer Hardware",
+    "Symbol":"HPQ"
+},
+{
+    "ClosedPrice":"491.35",
+    "CurrentPrice":"494.4",
+    "Name":"Humana Inc.",
+    "Sector":"Healthcare Plans",
+    "Symbol":"HUM"
+},
+{
+    "ClosedPrice":"10.68",
+    "CurrentPrice":"10.635",
+    "Name":"Huntington Bancshares Incorporated operates as the bank holding company for The Huntington National Bank that provides commercial",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"HBAN"
+},
+{
+    "ClosedPrice":"218.0",
+    "CurrentPrice":"217.17",
+    "Name":"IDEX Corporation",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"IEX"
+},
+{
+    "ClosedPrice":"478.74",
+    "CurrentPrice":"478.27",
+    "Name":"IDEXX Laboratories",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"IDXX"
+},
+{
+    "ClosedPrice":"231.28",
+    "CurrentPrice":"229.445",
+    "Name":"Illinois Tool Works Inc. manufactures and sells industrial products and equipment worldwide. It operates through seven segments: Automotive OEM; Food Equipment; Test & Measurement and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty Products. The Automotive OEM segment offers plastic and metal components",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"ITW"
+},
+{
+    "ClosedPrice":"216.95",
+    "CurrentPrice":"218.6154",
+    "Name":"Illumina",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"ILMN"
+},
+{
+    "ClosedPrice":"72.26",
+    "CurrentPrice":"68.48",
+    "Name":"Incyte Corporation",
+    "Sector":"Biotechnology",
+    "Symbol":"INCY"
+},
+{
+    "ClosedPrice":"29.03",
+    "CurrentPrice":"29.55",
+    "Name":"Intel Corporation designs",
+    "Sector":"Semiconductors",
+    "Symbol":"INTC"
+},
+{
+    "ClosedPrice":"96.53",
+    "CurrentPrice":"96.215",
+    "Name":"Intercontinental Exchange",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"ICE"
+},
+{
+    "ClosedPrice":"123.37",
+    "CurrentPrice":"124.105",
+    "Name":"International Business Machines Corporation",
+    "Sector":"Information Technology Services",
+    "Symbol":"IBM"
+},
+{
+    "ClosedPrice":"83.51",
+    "CurrentPrice":"83.28",
+    "Name":"International Flavors & Fragrances Inc.",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"IFF"
+},
+{
+    "ClosedPrice":"34.11",
+    "CurrentPrice":"34.057",
+    "Name":"International Paper Company produces renewable fiber-based packaging and pulp products in North America",
+    "Sector":"Packaging & Containers",
+    "Symbol":"IP"
+},
+{
+    "ClosedPrice":"35.03",
+    "CurrentPrice":"34.64",
+    "Name":"The Interpublic Group of Companies",
+    "Sector":"Advertising Agencies",
+    "Symbol":"IPG"
+},
+{
+    "ClosedPrice":"432.49",
+    "CurrentPrice":"424.41",
+    "Name":"Intuit Inc. provides financial management and compliance products and services for consumers",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"INTU"
+},
+{
+    "ClosedPrice":"244.47",
+    "CurrentPrice":"250.35",
+    "Name":"Intuitive Surgical",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"ISRG"
+},
+{
+    "ClosedPrice":"15.04",
+    "CurrentPrice":"14.675",
+    "Name":"Invesco Ltd. is a publicly owned investment manager. The firm provides its services to retail clients",
+    "Sector":"Asset Management",
+    "Symbol":"IVZ"
+},
+{
+    "ClosedPrice":"116.94",
+    "CurrentPrice":"115.19",
+    "Name":"IPG Photonics Corporation develops",
+    "Sector":"Semiconductor Equipment & Materials",
+    "Symbol":"IPGP"
+},
+{
+    "ClosedPrice":"188.0",
+    "CurrentPrice":"185.52",
+    "Name":"IQVIA Holdings Inc. engages in the provision of advanced analytics",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"IQV"
+},
+{
+    "ClosedPrice":"49.54",
+    "CurrentPrice":"49.4059",
+    "Name":"Iron Mountain Incorporated (NYSE: IRM)",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"IRM"
+},
+{
+    "ClosedPrice":"165.96",
+    "CurrentPrice":"165.345",
+    "Name":"J.B. Hunt Transport Services",
+    "Sector":"Integrated Freight & Logistics",
+    "Symbol":"JBHT"
+},
+{
+    "ClosedPrice":"146.68",
+    "CurrentPrice":"146.0161",
+    "Name":"Jack Henry & Associates",
+    "Sector":"Information Technology Services",
+    "Symbol":"JKHY"
+},
+{
+    "ClosedPrice":"111.68",
+    "CurrentPrice":"110.6",
+    "Name":"Jacobs Solutions Inc. provides consulting",
+    "Sector":"Engineering & Construction",
+    "Symbol":"J"
+},
+{
+    "ClosedPrice":"151.09",
+    "CurrentPrice":"153.41",
+    "Name":"The J. M. Smucker Company manufactures and markets branded food and beverage products worldwide. It operates in three segments: U.S. Retail Pet Foods",
+    "Sector":"Packaged Foods",
+    "Symbol":"SJM"
+},
+{
+    "ClosedPrice":"151.13",
+    "CurrentPrice":"151.46",
+    "Name":"Johnson & Johnson",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"JNJ"
+},
+{
+    "ClosedPrice":"58.71",
+    "CurrentPrice":"57.48",
+    "Name":"Johnson Controls International plc",
+    "Sector":"Building Products & Equipment",
+    "Symbol":"JCI"
+},
+{
+    "ClosedPrice":"126.84",
+    "CurrentPrice":"123.44",
+    "Name":"JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through four segments: Consumer & Community Banking (CCB)",
+    "Sector":"Banks\u00e2\u20ac\u201dDiversified",
+    "Symbol":"JPM"
+},
+{
+    "ClosedPrice":"32.12",
+    "CurrentPrice":"32.34",
+    "Name":"Juniper Networks",
+    "Sector":"Communication Equipment",
+    "Symbol":"JNPR"
+},
+{
+    "ClosedPrice":"64.6",
+    "CurrentPrice":"65.22",
+    "Name":"Kellogg Company",
+    "Sector":"Packaged Foods",
+    "Symbol":"K"
+},
+{
+    "ClosedPrice":"11.27",
+    "CurrentPrice":"11.265",
+    "Name":"KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"KEY"
+},
+{
+    "ClosedPrice":"156.44",
+    "CurrentPrice":"155.22",
+    "Name":"Keysight Technologies",
+    "Sector":"Scientific & Technical Instruments",
+    "Symbol":"KEYS"
+},
+{
+    "ClosedPrice":"127.37",
+    "CurrentPrice":"129.12",
+    "Name":"Kimberly-Clark Corporation",
+    "Sector":"Household & Personal Products",
+    "Symbol":"KMB"
+},
+{
+    "ClosedPrice":"17.51",
+    "CurrentPrice":"17.57",
+    "Name":"Kimco Realty Corp. (NYSE:KIM) is a real estate investment trust (REIT) headquartered in Jericho",
+    "Sector":"REIT\u00e2\u20ac\u201dRetail",
+    "Symbol":"KIM"
+},
+{
+    "ClosedPrice":"16.39",
+    "CurrentPrice":"16.45",
+    "Name":"Kinder Morgan",
+    "Sector":"Oil & Gas Midstream",
+    "Symbol":"KMI"
+},
+{
+    "ClosedPrice":"388.81",
+    "CurrentPrice":"372.69",
+    "Name":"KLA Corporation designs",
+    "Sector":"Semiconductor Equipment & Materials",
+    "Symbol":"KLAC"
+},
+{
+    "ClosedPrice":"37.42",
+    "CurrentPrice":"37.8699",
+    "Name":"The Kraft Heinz Company",
+    "Sector":"Packaged Foods",
+    "Symbol":"KHC"
+},
+{
+    "ClosedPrice":"48.52",
+    "CurrentPrice":"49.135",
+    "Name":"The Kroger Co. operates as a retailer in the United States. The company operates combination food and drug stores",
+    "Sector":"Grocery Stores",
+    "Symbol":"KR"
+},
+{
+    "ClosedPrice":"214.65",
+    "CurrentPrice":"215.795",
+    "Name":"Laboratory Corporation of America Holdings operates as a life sciences company that provides vital information to help doctors",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"LH"
+},
+{
+    "ClosedPrice":"523.59",
+    "CurrentPrice":"501.84",
+    "Name":"Lam Research Corporation designs",
+    "Sector":"Semiconductor Equipment & Materials",
+    "Symbol":"LRCX"
+},
+{
+    "ClosedPrice":"54.73",
+    "CurrentPrice":"53.53",
+    "Name":"Las Vegas Sands Corp.",
+    "Sector":"Resorts & Casinos",
+    "Symbol":"LVS"
+},
+{
+    "ClosedPrice":"30.4",
+    "CurrentPrice":"30.34",
+    "Name":"Leggett & Platt",
+    "Sector":"Furnishings, Fixtures & Appliances",
+    "Symbol":"LEG"
+},
+{
+    "ClosedPrice":"90.28",
+    "CurrentPrice":"90.27",
+    "Name":"Leidos Holdings",
+    "Sector":"Information Technology Services",
+    "Symbol":"LDOS"
+},
+{
+    "ClosedPrice":"103.37",
+    "CurrentPrice":"102.595",
+    "Name":"Lennar Corporation",
+    "Sector":"Residential Construction",
+    "Symbol":"LEN"
+},
+{
+    "ClosedPrice":"332.64",
+    "CurrentPrice":"333.83",
+    "Name":"Eli Lilly and Company discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"LLY"
+},
+{
+    "ClosedPrice":"20.39",
+    "CurrentPrice":"19.92",
+    "Name":"Lincoln National Corporation",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"LNC"
+},
+{
+    "ClosedPrice":"53.57",
+    "CurrentPrice":"53.24",
+    "Name":"LKQ Corporation engages in the distribution of replacement parts",
+    "Sector":"Auto Parts",
+    "Symbol":"LKQ"
+},
+{
+    "ClosedPrice":"467.9",
+    "CurrentPrice":"470.122",
+    "Name":"Lockheed Martin Corporation",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"LMT"
+},
+{
+    "ClosedPrice":"53.78",
+    "CurrentPrice":"53.64",
+    "Name":"Loews Corporation provides commercial property and casualty insurance in the United States and internationally. It offers specialty insurance products",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"L"
+},
+{
+    "ClosedPrice":"189.69",
+    "CurrentPrice":"188.445",
+    "Name":"Lowe's Companies",
+    "Sector":"Home Improvement Retail",
+    "Symbol":"LOW"
+},
+{
+    "ClosedPrice":"2.47",
+    "CurrentPrice":"2.39",
+    "Name":"Lumen Technologies",
+    "Sector":"Telecom Services",
+    "Symbol":"LUMN"
+},
+{
+    "ClosedPrice":"85.74",
+    "CurrentPrice":"85.47",
+    "Name":"LyondellBasell Industries N.V. operates as a chemical company in the United States",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"LYB"
+},
+{
+    "ClosedPrice":"112.37",
+    "CurrentPrice":"111.62",
+    "Name":"M&T Bank Corporation operates as a bank holding company for Manufacturers and Traders Trust Company and Wilmington Trust",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"MTB"
+},
+{
+    "ClosedPrice":"22.0",
+    "CurrentPrice":"21.675",
+    "Name":"Marathon Oil Corporation operates as an independent exploration and production company in the United States and internationally. The company engages in the exploration",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"MRO"
+},
+{
+    "ClosedPrice":"126.15",
+    "CurrentPrice":"122.26",
+    "Name":"Marathon Petroleum Corporation",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"MPC"
+},
+{
+    "ClosedPrice":"159.98",
+    "CurrentPrice":"154.045",
+    "Name":"Marriott International",
+    "Sector":"Lodging",
+    "Symbol":"MAR"
+},
+{
+    "ClosedPrice":"158.65",
+    "CurrentPrice":"158.325",
+    "Name":"Marsh & McLennan Companies",
+    "Sector":"Insurance Brokers",
+    "Symbol":"MMC"
+},
+{
+    "ClosedPrice":"333.45",
+    "CurrentPrice":"328.15",
+    "Name":"Martin Marietta Materials",
+    "Sector":"Building Materials",
+    "Symbol":"MLM"
+},
+{
+    "ClosedPrice":"48.4",
+    "CurrentPrice":"47.36",
+    "Name":"Masco Corporation designs",
+    "Sector":"Building Products & Equipment",
+    "Symbol":"MAS"
+},
+{
+    "ClosedPrice":"354.37",
+    "CurrentPrice":"349.21",
+    "Name":"Mastercard Incorporated",
+    "Sector":"Credit Services",
+    "Symbol":"MA"
+},
+{
+    "ClosedPrice":"71.2",
+    "CurrentPrice":"72.48",
+    "Name":"McCormick & Company",
+    "Sector":"Packaged Foods",
+    "Symbol":"MKC"
+},
+{
+    "ClosedPrice":"269.62",
+    "CurrentPrice":"269.89",
+    "Name":"McDonald's Corporation operates and franchises McDonald's restaurants in the United States and internationally. The company's restaurants offer hamburgers and cheeseburgers",
+    "Sector":"Restaurants",
+    "Symbol":"MCD"
+},
+{
+    "ClosedPrice":"335.83",
+    "CurrentPrice":"341.225",
+    "Name":"McKesson Corporation provides healthcare services in the United States and internationally. It operates through four segments: U.S. Pharmaceutical",
+    "Sector":"Medical Distribution",
+    "Symbol":"MCK"
+},
+{
+    "ClosedPrice":"77.57",
+    "CurrentPrice":"78.42",
+    "Name":"Medtronic plc develops",
+    "Sector":"Medical Devices",
+    "Symbol":"MDT"
+},
+{
+    "ClosedPrice":"104.23",
+    "CurrentPrice":"102.925",
+    "Name":"Merck & Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"MRK"
+},
+{
+    "ClosedPrice":"54.3",
+    "CurrentPrice":"53.35",
+    "Name":"MetLife",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"MET"
+},
+{
+    "ClosedPrice":"1451.1",
+    "CurrentPrice":"1437.46",
+    "Name":"Mettler-Toledo International Inc. manufactures and supplies precision instruments and services in the United States and internationally. It operates through five segments: U.S. Operations",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"MTD"
+},
+{
+    "ClosedPrice":"41.23",
+    "CurrentPrice":"40.36",
+    "Name":"MGM Resorts International",
+    "Sector":"Resorts & Casinos",
+    "Symbol":"MGM"
+},
+{
+    "ClosedPrice":"82.3",
+    "CurrentPrice":"79.305",
+    "Name":"Microchip Technology Incorporated develops",
+    "Sector":"Semiconductors",
+    "Symbol":"MCHP"
+},
+{
+    "ClosedPrice":"61.34",
+    "CurrentPrice":"61.075",
+    "Name":"Micron Technology",
+    "Sector":"Semiconductors",
+    "Symbol":"MU"
+},
+{
+    "ClosedPrice":"277.66",
+    "CurrentPrice":"277.37",
+    "Name":"Microsoft Corporation develops",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"MSFT"
+},
+{
+    "ClosedPrice":"139.99",
+    "CurrentPrice":"140.51",
+    "Name":"MAA",
+    "Sector":"REIT\u00e2\u20ac\u201dResidential",
+    "Symbol":"MAA"
+},
+{
+    "ClosedPrice":"95.07",
+    "CurrentPrice":"94.45",
+    "Name":"Mohawk Industries",
+    "Sector":"Furnishings, Fixtures & Appliances",
+    "Symbol":"MHK"
+},
+{
+    "ClosedPrice":"49.56",
+    "CurrentPrice":"49.77",
+    "Name":"Molson Coors Beverage Company manufactures",
+    "Sector":"Beverages\u00e2\u20ac\u201dBrewers",
+    "Symbol":"TAP"
+},
+{
+    "ClosedPrice":"67.2",
+    "CurrentPrice":"68.06",
+    "Name":"Mondelez International",
+    "Sector":"Confectioners",
+    "Symbol":"MDLZ"
+},
+{
+    "ClosedPrice":"102.39",
+    "CurrentPrice":"102.92",
+    "Name":"Monster Beverage Corporation",
+    "Sector":"Beverages\u00e2\u20ac\u201dNon-Alcoholic",
+    "Symbol":"MNST"
+},
+{
+    "ClosedPrice":"290.37",
+    "CurrentPrice":"286.99",
+    "Name":"Moody's Corporation operates as an integrated risk assessment firm worldwide. It operates in two segments",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"MCO"
+},
+{
+    "ClosedPrice":"85.84",
+    "CurrentPrice":"82.22",
+    "Name":"Morgan Stanley",
+    "Sector":"Capital Markets",
+    "Symbol":"MS"
+},
+{
+    "ClosedPrice":"268.16",
+    "CurrentPrice":"267.97",
+    "Name":"Motorola Solutions",
+    "Sector":"Communication Equipment",
+    "Symbol":"MSI"
+},
+{
+    "ClosedPrice":"546.96",
+    "CurrentPrice":"538.55",
+    "Name":"MSCI Inc.",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"MSCI"
+},
+{
+    "ClosedPrice":"52.49",
+    "CurrentPrice":"52.29",
+    "Name":"Nasdaq",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"NDAQ"
+},
+{
+    "ClosedPrice":"61.53",
+    "CurrentPrice":"59.95",
+    "Name":"NetApp",
+    "Sector":"Computer Hardware",
+    "Symbol":"NTAP"
+},
+{
+    "ClosedPrice":"320.37",
+    "CurrentPrice":"324.9146",
+    "Name":"Netflix",
+    "Sector":"Entertainment",
+    "Symbol":"NFLX"
+},
+{
+    "ClosedPrice":"11.52",
+    "CurrentPrice":"11.5",
+    "Name":"Newell Brands Inc. engages in the design",
+    "Sector":"Household & Personal Products",
+    "Symbol":"NWL"
+},
+{
+    "ClosedPrice":"47.79",
+    "CurrentPrice":"48.6",
+    "Name":"Newmont Corporation engages in the production and exploration of gold. It also explores for copper",
+    "Sector":"Gold",
+    "Symbol":"NEM"
+},
+{
+    "ClosedPrice":"16.18",
+    "CurrentPrice":"15.935",
+    "Name":"News Corporation",
+    "Sector":"Entertainment",
+    "Symbol":"NWSA"
+},
+{
+    "ClosedPrice":"73.81",
+    "CurrentPrice":"74.41",
+    "Name":"NextEra Energy",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"NEE"
+},
+{
+    "ClosedPrice":"120.97",
+    "CurrentPrice":"119.44",
+    "Name":"NIKE",
+    "Sector":"Footwear & Accessories",
+    "Symbol":"NKE"
+},
+{
+    "ClosedPrice":"25.98",
+    "CurrentPrice":"26.36",
+    "Name":"NiSource Inc.",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Gas",
+    "Symbol":"NI"
+},
+{
+    "ClosedPrice":"199.42",
+    "CurrentPrice":"197.0",
+    "Name":"Norfolk Southern Corporation",
+    "Sector":"Railroads",
+    "Symbol":"NSC"
+},
+{
+    "ClosedPrice":"83.22",
+    "CurrentPrice":"81.63",
+    "Name":"Northern Trust Corporation",
+    "Sector":"Asset Management",
+    "Symbol":"NTRS"
+},
+{
+    "ClosedPrice":"444.44",
+    "CurrentPrice":"449.875",
+    "Name":"Northrop Grumman Corporation operates as an aerospace and defense company worldwide. The company's Aeronautics Systems segment designs",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"NOC"
+},
+{
+    "ClosedPrice":"12.57",
+    "CurrentPrice":"12.2675",
+    "Name":"Norwegian Cruise Line Holdings Ltd.",
+    "Sector":"Travel Services",
+    "Symbol":"NCLH"
+},
+{
+    "ClosedPrice":"17.27",
+    "CurrentPrice":"16.87",
+    "Name":"NOV Inc. designs",
+    "Sector":"Oil & Gas Equipment & Services",
+    "Symbol":"NOV"
+},
+{
+    "ClosedPrice":"31.01",
+    "CurrentPrice":"31.08",
+    "Name":"NRG Energy",
+    "Sector":"Utilities\u00e2\u20ac\u201dIndependent Power Producers",
+    "Symbol":"NRG"
+},
+{
+    "ClosedPrice":"148.0",
+    "CurrentPrice":"146.74",
+    "Name":"Nucor Corporation engages in manufacture and sale of steel and steel products. The company's Steel Mills segment produces hot-rolled",
+    "Sector":"Steel",
+    "Symbol":"NUE"
+},
+{
+    "ClosedPrice":"271.91",
+    "CurrentPrice":"264.64",
+    "Name":"NVIDIA Corporation provides graphics",
+    "Sector":"Semiconductors",
+    "Symbol":"NVDA"
+},
+{
+    "ClosedPrice":"5354.43",
+    "CurrentPrice":"5306.1",
+    "Name":"NVR",
+    "Sector":"Residential Construction",
+    "Symbol":"NVR"
+},
+{
+    "ClosedPrice":"801.38",
+    "CurrentPrice":"802.48",
+    "Name":"O'Reilly Automotive",
+    "Sector":"Specialty Retail",
+    "Symbol":"ORLY"
+},
+{
+    "ClosedPrice":"58.48",
+    "CurrentPrice":"57.68",
+    "Name":"Occidental Petroleum Corporation",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"OXY"
+},
+{
+    "ClosedPrice":"88.63",
+    "CurrentPrice":"86.36",
+    "Name":"Omnicom Group Inc.",
+    "Sector":"Advertising Agencies",
+    "Symbol":"OMC"
+},
+{
+    "ClosedPrice":"58.64",
+    "CurrentPrice":"58.3",
+    "Name":"ONEOK",
+    "Sector":"Oil & Gas Midstream",
+    "Symbol":"OKE"
+},
+{
+    "ClosedPrice":"87.78",
+    "CurrentPrice":"87.8",
+    "Name":"Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"ORCL"
+},
+{
+    "ClosedPrice":"69.81",
+    "CurrentPrice":"68.83",
+    "Name":"PACCAR Inc designs",
+    "Sector":"Farm & Heavy Construction Machinery",
+    "Symbol":"PCAR"
+},
+{
+    "ClosedPrice":"131.08",
+    "CurrentPrice":"132.08",
+    "Name":"Packaging Corporation of America manufactures and sells containerboard and corrugated packaging products in the United States. The company operates through Packaging and Paper segments. The Packaging segment offers various containerboard and corrugated packaging products",
+    "Sector":"Packaging & Containers",
+    "Symbol":"PKG"
+},
+{
+    "ClosedPrice":"320.42",
+    "CurrentPrice":"314.99",
+    "Name":"Parker-Hannifin Corporation manufactures and sells motion and control technologies and systems for various mobile",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"PH"
+},
+{
+    "ClosedPrice":"107.88",
+    "CurrentPrice":"107.74",
+    "Name":"Paychex",
+    "Sector":"Staffing & Employment Services",
+    "Symbol":"PAYX"
+},
+{
+    "ClosedPrice":"72.56",
+    "CurrentPrice":"72.975",
+    "Name":"PayPal Holdings",
+    "Sector":"Credit Services",
+    "Symbol":"PYPL"
+},
+{
+    "ClosedPrice":"51.01",
+    "CurrentPrice":"50.83",
+    "Name":"Pentair plc provides various water solutions worldwide. It operates through Consumer Solutions; and Industrial & Flow Technologies segments. The Consumer Solutions segment designs",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"PNR"
+},
+{
+    "ClosedPrice":"175.65",
+    "CurrentPrice":"177.5545",
+    "Name":"PepsiCo",
+    "Sector":"Beverages\u00e2\u20ac\u201dNon-Alcoholic",
+    "Symbol":"PEP"
+},
+{
+    "ClosedPrice":"125.1",
+    "CurrentPrice":"125.41",
+    "Name":"PerkinElmer",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"PKI"
+},
+{
+    "ClosedPrice":"33.31",
+    "CurrentPrice":"33.25",
+    "Name":"Perrigo Company plc provides over-the-counter health and wellness solutions to enhance individual well-being in Ireland",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"PRGO"
+},
+{
+    "ClosedPrice":"40.18",
+    "CurrentPrice":"39.9824",
+    "Name":"Pfizer Inc. discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"PFE"
+},
+{
+    "ClosedPrice":"90.27",
+    "CurrentPrice":"90.39",
+    "Name":"Philip Morris International Inc. operates as a tobacco company working to delivers a smoke-free future and evolving portfolio for the long-term to include products outside of the tobacco and nicotine sector. The company's product portfolio primarily consists of cigarettes and smoke-free products",
+    "Sector":"Tobacco",
+    "Symbol":"PM"
+},
+{
+    "ClosedPrice":"93.54",
+    "CurrentPrice":"91.87",
+    "Name":"Phillips 66 operates as an energy manufacturing and logistics company in the United States",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"PSX"
+},
+{
+    "ClosedPrice":"74.1",
+    "CurrentPrice":"75.63",
+    "Name":"Pinnacle West Capital Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"PNW"
+},
+{
+    "ClosedPrice":"189.18",
+    "CurrentPrice":"188.705",
+    "Name":"Pioneer Natural Resources Company operates as an independent oil and gas exploration and production company in the United States. The company explores for",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"PXD"
+},
+{
+    "ClosedPrice":"122.13",
+    "CurrentPrice":"120.45",
+    "Name":"The PNC Financial Services Group",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"PNC"
+},
+{
+    "ClosedPrice":"123.51",
+    "CurrentPrice":"123.17",
+    "Name":"PPG Industries",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"PPG"
+},
+{
+    "ClosedPrice":"25.91",
+    "CurrentPrice":"26.255",
+    "Name":"PPL Corporation",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"PPL"
+},
+{
+    "ClosedPrice":"71.26",
+    "CurrentPrice":"69.57",
+    "Name":"Principal Financial Group",
+    "Sector":"Asset Management",
+    "Symbol":"PFG"
+},
+{
+    "ClosedPrice":"143.79",
+    "CurrentPrice":"145.64",
+    "Name":"The Procter & Gamble Company provides branded consumer packaged goods worldwide. It operates through five segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby",
+    "Sector":"Household & Personal Products",
+    "Symbol":"PG"
+},
+{
+    "ClosedPrice":"137.83",
+    "CurrentPrice":"137.555",
+    "Name":"The Progressive Corporation",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"PGR"
+},
+{
+    "ClosedPrice":"114.15",
+    "CurrentPrice":"114.2",
+    "Name":"Prologis",
+    "Sector":"REIT\u00e2\u20ac\u201dIndustrial",
+    "Symbol":"PLD"
+},
+{
+    "ClosedPrice":"77.23",
+    "CurrentPrice":"75.91",
+    "Name":"Prudential Financial",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"PRU"
+},
+{
+    "ClosedPrice":"56.74",
+    "CurrentPrice":"57.65",
+    "Name":"Public Service Enterprise Group Incorporated",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"PEG"
+},
+{
+    "ClosedPrice":"282.24",
+    "CurrentPrice":"284.35",
+    "Name":"Public Storage",
+    "Sector":"REIT\u00e2\u20ac\u201dIndustrial",
+    "Symbol":"PSA"
+},
+{
+    "ClosedPrice":"56.39",
+    "CurrentPrice":"56.0",
+    "Name":"PulteGroup",
+    "Sector":"Residential Construction",
+    "Symbol":"PHM"
+},
+{
+    "ClosedPrice":"73.86",
+    "CurrentPrice":"71.98",
+    "Name":"PVH Corp. operates as an apparel company worldwide. The company operates through six segments: Tommy Hilfiger North America",
+    "Sector":"Apparel Manufacturing",
+    "Symbol":"PVH"
+},
+{
+    "ClosedPrice":"102.48",
+    "CurrentPrice":"100.59",
+    "Name":"Qorvo",
+    "Sector":"Semiconductors",
+    "Symbol":"QRVO"
+},
+{
+    "ClosedPrice":"124.15",
+    "CurrentPrice":"122.69",
+    "Name":"QUALCOMM Incorporated engages in the development and commercialization of foundational technologies for the wireless industry worldwide. It operates through three segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic Initiatives (QSI). The QCT segment develops and supplies integrated circuits and system software based on 3G/4G/5G and other technologies for use in wireless voice and data communications",
+    "Sector":"Semiconductors",
+    "Symbol":"QCOM"
+},
+{
+    "ClosedPrice":"158.97",
+    "CurrentPrice":"157.415",
+    "Name":"Quanta Services",
+    "Sector":"Engineering & Construction",
+    "Symbol":"PWR"
+},
+{
+    "ClosedPrice":"135.39",
+    "CurrentPrice":"138.96",
+    "Name":"Quest Diagnostics Incorporated provides diagnostic testing",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"DGX"
+},
+{
+    "ClosedPrice":"111.44",
+    "CurrentPrice":"109.69",
+    "Name":"Ralph Lauren Corporation designs",
+    "Sector":"Apparel Manufacturing",
+    "Symbol":"RL"
+},
+{
+    "ClosedPrice":"91.31",
+    "CurrentPrice":"88.0",
+    "Name":"Raymond James Financial",
+    "Sector":"Capital Markets",
+    "Symbol":"RJF"
+},
+{
+    "ClosedPrice":"59.27",
+    "CurrentPrice":"60.125",
+    "Name":"Realty Income",
+    "Sector":"REIT\u00e2\u20ac\u201dRetail",
+    "Symbol":"O"
+},
+{
+    "ClosedPrice":"56.69",
+    "CurrentPrice":"56.91",
+    "Name":"Regency Centers is the preeminent national owner",
+    "Sector":"REIT\u00e2\u20ac\u201dRetail",
+    "Symbol":"REG"
+},
+{
+    "ClosedPrice":"802.16",
+    "CurrentPrice":"808.44",
+    "Name":"Regeneron Pharmaceuticals",
+    "Sector":"Biotechnology",
+    "Symbol":"REGN"
+},
+{
+    "ClosedPrice":"17.53",
+    "CurrentPrice":"17.61",
+    "Name":"Regions Financial Corporation",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"RF"
+},
+{
+    "ClosedPrice":"127.96",
+    "CurrentPrice":"129.21",
+    "Name":"Republic Services",
+    "Sector":"Waste Management",
+    "Symbol":"RSG"
+},
+{
+    "ClosedPrice":"210.59",
+    "CurrentPrice":"210.175",
+    "Name":"ResMed Inc. develops",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"RMD"
+},
+{
+    "ClosedPrice":"74.06",
+    "CurrentPrice":"73.78",
+    "Name":"Robert Half International Inc. provides talent solutions and business consulting service in North America",
+    "Sector":"Staffing & Employment Services",
+    "Symbol":"RHI"
+},
+{
+    "ClosedPrice":"278.42",
+    "CurrentPrice":"272.27",
+    "Name":"Rockwell Automation",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"ROK"
+},
+{
+    "ClosedPrice":"36.17",
+    "CurrentPrice":"36.195",
+    "Name":"Rollins",
+    "Sector":"Personal Services",
+    "Symbol":"ROL"
+},
+{
+    "ClosedPrice":"425.05",
+    "CurrentPrice":"426.55",
+    "Name":"Roper Technologies",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"ROP"
+},
+{
+    "ClosedPrice":"101.63",
+    "CurrentPrice":"100.06",
+    "Name":"Ross Stores",
+    "Sector":"Apparel Retail",
+    "Symbol":"ROST"
+},
+{
+    "ClosedPrice":"61.75",
+    "CurrentPrice":"60.0381",
+    "Name":"Royal Caribbean Cruises Ltd. operates as a cruise company worldwide. The company operates cruises under the Royal Caribbean International",
+    "Sector":"Travel Services",
+    "Symbol":"RCL"
+},
+{
+    "ClosedPrice":"332.25",
+    "CurrentPrice":"330.005",
+    "Name":"S&P Global Inc.",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"SPGI"
+},
+{
+    "ClosedPrice":"187.44",
+    "CurrentPrice":"187.42",
+    "Name":"Salesforce",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"CRM"
+},
+{
+    "ClosedPrice":"246.9",
+    "CurrentPrice":"247.82",
+    "Name":"SBA Communications Corporation is a first choice provider and leading owner and operator of wireless communications infrastructure in North",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"SBAC"
+},
+{
+    "ClosedPrice":"45.48",
+    "CurrentPrice":"44.395",
+    "Name":"Schlumberger Limited engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration",
+    "Sector":"Oil & Gas Equipment & Services",
+    "Symbol":"SLB"
+},
+{
+    "ClosedPrice":"61.6",
+    "CurrentPrice":"61.28",
+    "Name":"Seagate Technology Holdings plc provides data storage technology and solutions in Singapore",
+    "Sector":"Computer Hardware",
+    "Symbol":"STX"
+},
+{
+    "ClosedPrice":"42.69",
+    "CurrentPrice":"42.54",
+    "Name":"Sealed Air Corporation provides packaging solutions in the Americas",
+    "Sector":"Packaging & Containers",
+    "Symbol":"SEE"
+},
+{
+    "ClosedPrice":"139.69",
+    "CurrentPrice":"141.21",
+    "Name":"Sempra Energy operates as an energy infrastructure company in the United States and internationally. It operates through four segments: San Diego Gas & Electric Company",
+    "Sector":"Utilities\u00e2\u20ac\u201dDiversified",
+    "Symbol":"SRE"
+},
+{
+    "ClosedPrice":"440.47",
+    "CurrentPrice":"428.82",
+    "Name":"ServiceNow",
+    "Sector":"Software\u00e2\u20ac\u201dApplication",
+    "Symbol":"NOW"
+},
+{
+    "ClosedPrice":"209.06",
+    "CurrentPrice":"208.705",
+    "Name":"The Sherwin-Williams Company engages in the manufacture",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"SHW"
+},
+{
+    "ClosedPrice":"102.38",
+    "CurrentPrice":"101.14",
+    "Name":"Simon is a real estate investment trust engaged in the ownership of premier shopping",
+    "Sector":"REIT\u00e2\u20ac\u201dRetail",
+    "Symbol":"SPG"
+},
+{
+    "ClosedPrice":"116.36",
+    "CurrentPrice":"113.73",
+    "Name":"Skyworks Solutions",
+    "Sector":"Semiconductors",
+    "Symbol":"SWKS"
+},
+{
+    "ClosedPrice":"19.96",
+    "CurrentPrice":"19.4",
+    "Name":"SL Green Realty Corp.",
+    "Sector":"REIT\u00e2\u20ac\u201dOffice",
+    "Symbol":"SLG"
+},
+{
+    "ClosedPrice":"233.75",
+    "CurrentPrice":"232.25",
+    "Name":"Snap-on Incorporated manufactures and markets tools",
+    "Sector":"Tools & Accessories",
+    "Symbol":"SNA"
+},
+{
+    "ClosedPrice":"66.34",
+    "CurrentPrice":"67.15",
+    "Name":"The Southern Company",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"SO"
+},
+{
+    "ClosedPrice":"29.62",
+    "CurrentPrice":"29.01",
+    "Name":"Southwest Airlines Co. operates as a passenger airline company that provide scheduled air transportation services in the United States and near-international markets. As of December 31",
+    "Sector":"Airlines",
+    "Symbol":"LUV"
+},
+{
+    "ClosedPrice":"75.47",
+    "CurrentPrice":"73.5",
+    "Name":"Stanley Black & Decker",
+    "Sector":"Tools & Accessories",
+    "Symbol":"SWK"
+},
+{
+    "ClosedPrice":"98.42",
+    "CurrentPrice":"97.33",
+    "Name":"Starbucks Corporation",
+    "Sector":"Restaurants",
+    "Symbol":"SBUX"
+},
+{
+    "ClosedPrice":"72.69",
+    "CurrentPrice":"69.73",
+    "Name":"State Street Corporation",
+    "Sector":"Asset Management",
+    "Symbol":"STT"
+},
+{
+    "ClosedPrice":"274.28",
+    "CurrentPrice":"274.1",
+    "Name":"Stryker Corporation operates as a medical technology company. The company operates through two segments",
+    "Sector":"Medical Devices",
+    "Symbol":"SYK"
+},
+{
+    "ClosedPrice":"106.04",
+    "CurrentPrice":"106.04",
+    "Name":"SVB Financial Group",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"SIVB"
+},
+{
+    "ClosedPrice":"28.01",
+    "CurrentPrice":"27.375",
+    "Name":"Synchrony Financial",
+    "Sector":"Credit Services",
+    "Symbol":"SYF"
+},
+{
+    "ClosedPrice":"379.4",
+    "CurrentPrice":"371.46",
+    "Name":"Synopsys",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"SNPS"
+},
+{
+    "ClosedPrice":"73.23",
+    "CurrentPrice":"73.67",
+    "Name":"Sysco Corporation",
+    "Sector":"Food Distribution",
+    "Symbol":"SYY"
+},
+{
+    "ClosedPrice":"142.3",
+    "CurrentPrice":"141.39",
+    "Name":"T-Mobile US",
+    "Sector":"Telecom Services",
+    "Symbol":"TMUS"
+},
+{
+    "ClosedPrice":"108.85",
+    "CurrentPrice":"108.75",
+    "Name":"T. Rowe Price Group",
+    "Sector":"Asset Management",
+    "Symbol":"TROW"
+},
+{
+    "ClosedPrice":"40.66",
+    "CurrentPrice":"40.135",
+    "Name":"Tapestry",
+    "Sector":"Luxury Goods",
+    "Symbol":"TPR"
+},
+{
+    "ClosedPrice":"156.12",
+    "CurrentPrice":"154.06",
+    "Name":"Target Corporation operates as a general merchandise retailer in the United States. The company offers apparel for women",
+    "Sector":"Discount Stores",
+    "Symbol":"TGT"
+},
+{
+    "ClosedPrice":"125.15",
+    "CurrentPrice":"123.54",
+    "Name":"TE Connectivity Ltd.",
+    "Sector":"Electronic Components",
+    "Symbol":"TEL"
+},
+{
+    "ClosedPrice":"241.34",
+    "CurrentPrice":"243.92",
+    "Name":"Teleflex Incorporated designs",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"TFX"
+},
+{
+    "ClosedPrice":"107.61",
+    "CurrentPrice":"104.88",
+    "Name":"Teradyne",
+    "Sector":"Semiconductor Equipment & Materials",
+    "Symbol":"TER"
+},
+{
+    "ClosedPrice":"192.22",
+    "CurrentPrice":"187.3",
+    "Name":"Tesla",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"TSLA"
+},
+{
+    "ClosedPrice":"180.28",
+    "CurrentPrice":"178.18",
+    "Name":"Texas Instruments Incorporated designs",
+    "Sector":"Semiconductors",
+    "Symbol":"TXN"
+},
+{
+    "ClosedPrice":"67.34",
+    "CurrentPrice":"66.68",
+    "Name":"Textron Inc. operates in the aircraft",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"TXT"
+},
+{
+    "ClosedPrice":"43.24",
+    "CurrentPrice":"41.725",
+    "Name":"The Bank of New York Mellon Corporation provides a range of financial products and services in the United States and internationally. The company operates through Securities Services",
+    "Sector":"Asset Management",
+    "Symbol":"BK"
+},
+{
+    "ClosedPrice":"154.61",
+    "CurrentPrice":"155.265",
+    "Name":"The Clorox Company manufactures and markets consumer and professional products worldwide. It operates through four segments: Health and Wellness",
+    "Sector":"Household & Personal Products",
+    "Symbol":"CLX"
+},
+{
+    "ClosedPrice":"344.96",
+    "CurrentPrice":"347.5",
+    "Name":"The Cooper Companies",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"COO"
+},
+{
+    "ClosedPrice":"243.98",
+    "CurrentPrice":"246.22",
+    "Name":"The Hershey Company",
+    "Sector":"Confectioners",
+    "Symbol":"HSY"
+},
+{
+    "ClosedPrice":"42.98",
+    "CurrentPrice":"41.54",
+    "Name":"The Mosaic Company",
+    "Sector":"Agricultural Inputs",
+    "Symbol":"MOS"
+},
+{
+    "ClosedPrice":"163.86",
+    "CurrentPrice":"163.38",
+    "Name":"The Travelers Companies",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"TRV"
+},
+{
+    "ClosedPrice":"95.83",
+    "CurrentPrice":"93.23",
+    "Name":"The Walt Disney Company",
+    "Sector":"Entertainment",
+    "Symbol":"DIS"
+},
+{
+    "ClosedPrice":"555.19",
+    "CurrentPrice":"550.0",
+    "Name":"Thermo Fisher Scientific Inc. provides life sciences solutions",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"TMO"
+},
+{
+    "ClosedPrice":"74.63",
+    "CurrentPrice":"73.87",
+    "Name":"The TJX Companies",
+    "Sector":"Apparel Retail",
+    "Symbol":"TJX"
+},
+{
+    "ClosedPrice":"226.61",
+    "CurrentPrice":"227.22",
+    "Name":"Tractor Supply Company operates as a rural lifestyle retailer in the United States. The company offers a selection of merchandise",
+    "Sector":"Specialty Retail",
+    "Symbol":"TSCO"
+},
+{
+    "ClosedPrice":"182.91",
+    "CurrentPrice":"180.62",
+    "Name":"Trane Technologies plc",
+    "Sector":"Building Products & Equipment",
+    "Symbol":"TT"
+},
+{
+    "ClosedPrice":"701.25",
+    "CurrentPrice":"692.9",
+    "Name":"TransDigm Group Incorporated designs",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"TDG"
+},
+{
+    "ClosedPrice":"48.69",
+    "CurrentPrice":"48.63",
+    "Name":"Trimble Inc. provides technology solutions that enable professionals and field mobile workers to enhance or transform their work processes worldwide. The company's Buildings and Infrastructure segment offers field and office software for route selection and design; systems to guide and control construction equipment; software for 3D design and data sharing; systems to monitor",
+    "Sector":"Scientific & Technical Instruments",
+    "Symbol":"TRMB"
+},
+{
+    "ClosedPrice":"56.08",
+    "CurrentPrice":"56.415",
+    "Name":"Tyson Foods",
+    "Sector":"Farm Products",
+    "Symbol":"TSN"
+},
+{
+    "ClosedPrice":"35.06",
+    "CurrentPrice":"34.13",
+    "Name":"U.S. Bancorp",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"USB"
+},
+{
+    "ClosedPrice":"37.84",
+    "CurrentPrice":"37.92",
+    "Name":"UDR",
+    "Sector":"REIT\u00e2\u20ac\u201dResidential",
+    "Symbol":"UDR"
+},
+{
+    "ClosedPrice":"515.74",
+    "CurrentPrice":"508.5",
+    "Name":"Ulta Beauty",
+    "Sector":"Specialty Retail",
+    "Symbol":"ULTA"
+},
+{
+    "ClosedPrice":"8.94",
+    "CurrentPrice":"8.812",
+    "Name":"Under Armour",
+    "Sector":"Apparel Manufacturing",
+    "Symbol":"UAA"
+},
+{
+    "ClosedPrice":"186.2",
+    "CurrentPrice":"185.05",
+    "Name":"Union Pacific Corporation",
+    "Sector":"Railroads",
+    "Symbol":"UNP"
+},
+{
+    "ClosedPrice":"41.66",
+    "CurrentPrice":"40.51",
+    "Name":"United Airlines Holdings",
+    "Sector":"Airlines",
+    "Symbol":"UAL"
+},
+{
+    "ClosedPrice":"185.29",
+    "CurrentPrice":"184.59",
+    "Name":"United Parcel Service",
+    "Sector":"Integrated Freight & Logistics",
+    "Symbol":"UPS"
+},
+{
+    "ClosedPrice":"382.18",
+    "CurrentPrice":"364.775",
+    "Name":"United Rentals",
+    "Sector":"Rental & Leasing Services",
+    "Symbol":"URI"
+},
+{
+    "ClosedPrice":"469.91",
+    "CurrentPrice":"471.22",
+    "Name":"UnitedHealth Group Incorporated operates as a diversified health care company in the United States. It operates through four segments: UnitedHealthcare",
+    "Sector":"Healthcare Plans",
+    "Symbol":"UNH"
+},
+{
+    "ClosedPrice":"121.8",
+    "CurrentPrice":"121.32",
+    "Name":"Universal Health Services",
+    "Sector":"Medical Care Facilities",
+    "Symbol":"UHS"
+},
+{
+    "ClosedPrice":"37.6",
+    "CurrentPrice":"37.27",
+    "Name":"Unum Group",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"UNM"
+},
+{
+    "ClosedPrice":"130.38",
+    "CurrentPrice":"127.1",
+    "Name":"Valero Energy Corporation manufactures",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"VLO"
+},
+{
+    "ClosedPrice":"41.69",
+    "CurrentPrice":"41.76",
+    "Name":"Ventas",
+    "Sector":"REIT\u00e2\u20ac\u201dHealthcare Facilities",
+    "Symbol":"VTR"
+},
+{
+    "ClosedPrice":"200.62",
+    "CurrentPrice":"200.13",
+    "Name":"VeriSign",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"VRSN"
+},
+{
+    "ClosedPrice":"181.82",
+    "CurrentPrice":"184.365",
+    "Name":"Verisk Analytics",
+    "Sector":"Consulting Services",
+    "Symbol":"VRSK"
+},
+{
+    "ClosedPrice":"37.37",
+    "CurrentPrice":"37.32",
+    "Name":"Verizon Communications Inc.",
+    "Sector":"Telecom Services",
+    "Symbol":"VZ"
+},
+{
+    "ClosedPrice":"304.75",
+    "CurrentPrice":"308.7",
+    "Name":"Vertex Pharmaceuticals Incorporated",
+    "Sector":"Biotechnology",
+    "Symbol":"VRTX"
+},
+{
+    "ClosedPrice":"20.44",
+    "CurrentPrice":"20.18",
+    "Name":"V.F. Corporation",
+    "Sector":"Apparel Manufacturing",
+    "Symbol":"VFC"
+},
+{
+    "ClosedPrice":"222.59",
+    "CurrentPrice":"219.22",
+    "Name":"Visa Inc. operates as a payments technology company worldwide. The company operates VisaNet",
+    "Sector":"Credit Services",
+    "Symbol":"V"
+},
+{
+    "ClosedPrice":"164.5",
+    "CurrentPrice":"162.86",
+    "Name":"Vulcan Materials Company",
+    "Sector":"Building Materials",
+    "Symbol":"VMC"
+},
+{
+    "ClosedPrice":"59.97",
+    "CurrentPrice":"59.51",
+    "Name":"W. R. Berkley Corporation",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"WRB"
+},
+{
+    "ClosedPrice":"32.33",
+    "CurrentPrice":"32.1108",
+    "Name":"Walgreens Boots Alliance",
+    "Sector":"Pharmaceutical Retailers",
+    "Symbol":"WBA"
+},
+{
+    "ClosedPrice":"140.65",
+    "CurrentPrice":"141.86",
+    "Name":"Walmart Inc. engages in the operation of retail",
+    "Sector":"Discount Stores",
+    "Symbol":"WMT"
+},
+{
+    "ClosedPrice":"150.7",
+    "CurrentPrice":"152.73",
+    "Name":"Waste Management",
+    "Sector":"Waste Management",
+    "Symbol":"WM"
+},
+{
+    "ClosedPrice":"298.17",
+    "CurrentPrice":"295.735",
+    "Name":"Waters Corporation",
+    "Sector":"Diagnostics & Research",
+    "Symbol":"WAT"
+},
+{
+    "ClosedPrice":"89.93",
+    "CurrentPrice":"91.7",
+    "Name":"WEC Energy Group",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"WEC"
+},
+{
+    "ClosedPrice":"36.61",
+    "CurrentPrice":"35.355",
+    "Name":"Wells Fargo & Company",
+    "Sector":"Banks\u00e2\u20ac\u201dDiversified",
+    "Symbol":"WFC"
+},
+{
+    "ClosedPrice":"65.76",
+    "CurrentPrice":"66.0641",
+    "Name":"Welltower Inc. (NYSE:WELL)",
+    "Sector":"REIT\u00e2\u20ac\u201dHealthcare Facilities",
+    "Symbol":"WELL"
+},
+{
+    "ClosedPrice":"35.27",
+    "CurrentPrice":"35.11",
+    "Name":"Western Digital Corporation develops",
+    "Sector":"Computer Hardware",
+    "Symbol":"WDC"
+},
+{
+    "ClosedPrice":"10.83",
+    "CurrentPrice":"10.825",
+    "Name":"The Western Union Company provides money movement and payment services worldwide. The company operates in two segments",
+    "Sector":"Credit Services",
+    "Symbol":"WU"
+},
+{
+    "ClosedPrice":"95.49",
+    "CurrentPrice":"94.05",
+    "Name":"Westinghouse Air Brake Technologies Corporation provides technology-based locomotives",
+    "Sector":"Railroads",
+    "Symbol":"WAB"
+},
+{
+    "ClosedPrice":"28.3",
+    "CurrentPrice":"27.95",
+    "Name":"Weyerhaeuser Company",
+    "Sector":"REIT\u00e2\u20ac\u201dSpecialty",
+    "Symbol":"WY"
+},
+{
+    "ClosedPrice":"126.09",
+    "CurrentPrice":"125.7",
+    "Name":"Whirlpool Corporation manufactures and markets home appliances and related products and services in North America",
+    "Sector":"Furnishings, Fixtures & Appliances",
+    "Symbol":"WHR"
+},
+{
+    "ClosedPrice":"28.3",
+    "CurrentPrice":"28.28",
+    "Name":"The Williams Companies",
+    "Sector":"Oil & Gas Midstream",
+    "Symbol":"WMB"
+},
+{
+    "ClosedPrice":"106.2",
+    "CurrentPrice":"104.745",
+    "Name":"Wynn Resorts",
+    "Sector":"Resorts & Casinos",
+    "Symbol":"WYNN"
+},
+{
+    "ClosedPrice":"63.31",
+    "CurrentPrice":"64.39",
+    "Name":"Xcel Energy Inc.",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"XEL"
+},
+{
+    "ClosedPrice":"97.23",
+    "CurrentPrice":"97.04",
+    "Name":"Xylem Inc.",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"XYL"
+},
+{
+    "ClosedPrice":"127.68",
+    "CurrentPrice":"127.22",
+    "Name":"Yum! Brands",
+    "Sector":"Restaurants",
+    "Symbol":"YUM"
+},
+{
+    "ClosedPrice":"124.96",
+    "CurrentPrice":"124.97",
+    "Name":"Zimmer Biomet Holdings",
+    "Sector":"Medical Devices",
+    "Symbol":"ZBH"
+},
+{
+    "ClosedPrice":"161.24",
+    "CurrentPrice":"161.82",
+    "Name":"Zoetis Inc. discovers",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"ZTS"
+},
+{
+    "ClosedPrice":"5.46",
+    "CurrentPrice":"5.4",
+    "Name":"Keppel Corporation Limited",
+    "Sector":"Conglomerates",
+    "Symbol":"BN4.SI"
+},
+{
+    "ClosedPrice":"28.99",
+    "CurrentPrice":"28.76",
+    "Name":"Jardine Cycle & Carriage Limited",
+    "Sector":"Conglomerates",
+    "Symbol":"C07.SI"
+},
+{
+    "ClosedPrice":"7.21",
+    "CurrentPrice":"7.16",
+    "Name":"City Developments Limited (CDL) is a leading global real estate operating company with a network spanning 103 locations in 29 countries and regions. Listed on the Singapore Exchange",
+    "Sector":"Real Estate\u00e2\u20ac\u201dDevelopment",
+    "Symbol":"C09.SI"
+},
+{
+    "ClosedPrice":"5.68",
+    "CurrentPrice":"5.68",
+    "Name":"Singapore Airlines Limited",
+    "Sector":"Airlines",
+    "Symbol":"C6L.SI"
+},
+{
+    "ClosedPrice":"2.85",
+    "CurrentPrice":"2.87",
+    "Name":"DFI Retail Group Holdings Limited operates as a retailer in Asia. The company operates through five segments: Food",
+    "Sector":"Grocery Stores",
+    "Symbol":"D01.SI"
+},
+{
+    "ClosedPrice":"33.49",
+    "CurrentPrice":"33.37",
+    "Name":"DBS Group Holdings Ltd provides commercial banking and financial services in Singapore",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"D05.SI"
+},
+{
+    "ClosedPrice":"4.15",
+    "CurrentPrice":"4.18",
+    "Name":"Wilmar International Limited operates as an agribusiness company in Singapore",
+    "Sector":"Farm Products",
+    "Symbol":"F34.SI"
+},
+{
+    "ClosedPrice":"1.1",
+    "CurrentPrice":"1.08",
+    "Name":"Genting Singapore Limited engages in the development",
+    "Sector":"Resorts & Casinos",
+    "Symbol":"G13.SI"
+},
+{
+    "ClosedPrice":"4.24",
+    "CurrentPrice":"4.23",
+    "Name":"Hongkong Land Holdings Limited",
+    "Sector":"Real Estate\u00e2\u20ac\u201dDevelopment",
+    "Symbol":"H78.SI"
+},
+{
+    "ClosedPrice":"47.65",
+    "CurrentPrice":"47.66",
+    "Name":"Jardine Matheson Holdings Limited",
+    "Sector":"Conglomerates",
+    "Symbol":"J36.SI"
+},
+{
+    "ClosedPrice":"12.34",
+    "CurrentPrice":"12.36",
+    "Name":"Oversea-Chinese Banking Corporation Limited engages in the provision of financial services in Singapore",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"O39.SI"
+},
+{
+    "ClosedPrice":"1.74",
+    "CurrentPrice":"1.73",
+    "Name":"IHH Healthcare Berhad",
+    "Sector":"Medical Care Facilities",
+    "Symbol":"Q0F.SI"
+},
+{
+    "ClosedPrice":"3.52",
+    "CurrentPrice":"3.53",
+    "Name":"Singapore Technologies Engineering Ltd",
+    "Sector":"Aerospace & Defense",
+    "Symbol":"S63.SI"
+},
+{
+    "ClosedPrice":"8.93",
+    "CurrentPrice":"9.08",
+    "Name":"Singapore Exchange Limited",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"S68.SI"
+},
+{
+    "ClosedPrice":"29.42",
+    "CurrentPrice":"29.29",
+    "Name":"United Overseas Bank Limited",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"U11.SI"
+},
+{
+    "ClosedPrice":"0.64",
+    "CurrentPrice":"0.635",
+    "Name":"Thai Beverage Public Company Limited",
+    "Sector":"Beverages\u00e2\u20ac\u201dWineries & Distilleries",
+    "Symbol":"Y92.SI"
+},
+{
+    "ClosedPrice":"2.4",
+    "CurrentPrice":"2.38",
+    "Name":"Singapore Telecommunications Limited",
+    "Sector":"Telecom Services",
+    "Symbol":"Z74.SI"
+},
+{
+    "ClosedPrice":"2.4",
+    "CurrentPrice":"2.4",
+    "Name":"Singapore Telecommunications Limited",
+    "Sector":"Telecom Services",
+    "Symbol":"Z77.SI"
+},
+{
+    "ClosedPrice":"2838.0",
+    "CurrentPrice":"2830.0",
+    "Name":"Kyowa Kirin Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"4151.T"
+},
+{
+    "ClosedPrice":"4251.0",
+    "CurrentPrice":"4263.0",
+    "Name":"Takeda Pharmaceutical Company Limited engages in the research",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"4502.T"
+},
+{
+    "ClosedPrice":"1843.0",
+    "CurrentPrice":"1845.0",
+    "Name":"Astellas Pharma Inc. engages in the manufacture",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"4503.T"
+},
+{
+    "ClosedPrice":"791.0",
+    "CurrentPrice":"802.0",
+    "Name":"Sumitomo Pharma Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"4506.T"
+},
+{
+    "ClosedPrice":"5865.0",
+    "CurrentPrice":"5867.0",
+    "Name":"Shionogi & Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"4507.T"
+},
+{
+    "ClosedPrice":"3255.0",
+    "CurrentPrice":"3220.0",
+    "Name":"Chugai Pharmaceutical Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"4519.T"
+},
+{
+    "ClosedPrice":"7189.0",
+    "CurrentPrice":"7167.0",
+    "Name":"Eisai Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"4523.T"
+},
+{
+    "ClosedPrice":"4634.0",
+    "CurrentPrice":"4670.0",
+    "Name":"Daiichi Sankyo Company",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"4568.T"
+},
+{
+    "ClosedPrice":"3967.0",
+    "CurrentPrice":"3967.0",
+    "Name":"Otsuka Holdings Co.",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"4578.T"
+},
+{
+    "ClosedPrice":"2449.0",
+    "CurrentPrice":"2420.0",
+    "Name":"MinebeaMitsumi Inc. manufactures and supplies machined components",
+    "Sector":"Electronic Components",
+    "Symbol":"6479.T"
+},
+{
+    "ClosedPrice":"6863.0",
+    "CurrentPrice":"6849.0",
+    "Name":"Hitachi",
+    "Sector":"Conglomerates",
+    "Symbol":"6501.T"
+},
+{
+    "ClosedPrice":"1541.5",
+    "CurrentPrice":"1538.0",
+    "Name":"Mitsubishi Electric Corporation develops",
+    "Sector":"Electrical Equipment & Parts",
+    "Symbol":"6503.T"
+},
+{
+    "ClosedPrice":"6827.0",
+    "CurrentPrice":"6878.0",
+    "Name":"Nidec Corporation",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"6594.T"
+},
+{
+    "ClosedPrice":"7501.0",
+    "CurrentPrice":"7441.0",
+    "Name":"OMRON Corporation engages in industrial automation",
+    "Sector":"Electronic Components",
+    "Symbol":"6645.T"
+},
+{
+    "ClosedPrice":"4945.0",
+    "CurrentPrice":"4920.0",
+    "Name":"NEC Corporation operates as a provider of information and communication technology solutions in Japan and internationally. It provides systems integration services comprising systems implementation and consulting; maintenance and support services; outsourcing and cloud services; and system equipment. The company also offers network infrastructure products",
+    "Sector":"Information Technology Services",
+    "Symbol":"6701.T"
+},
+{
+    "ClosedPrice":"17725.0",
+    "CurrentPrice":"17590.0",
+    "Name":"Fujitsu Limited operates as an information and communication technology company in Japan and internationally. The company operates through three segments: Technology Solutions",
+    "Sector":"Information Technology Services",
+    "Symbol":"6702.T"
+},
+{
+    "ClosedPrice":"1871.0",
+    "CurrentPrice":"1870.0",
+    "Name":"Seiko Epson Corporation",
+    "Sector":"Computer Hardware",
+    "Symbol":"6724.T"
+},
+{
+    "ClosedPrice":"1135.0",
+    "CurrentPrice":"1131.5",
+    "Name":"Panasonic Holdings Corporation",
+    "Sector":"Consumer Electronics",
+    "Symbol":"6752.T"
+},
+{
+    "ClosedPrice":"942.0",
+    "CurrentPrice":"944.0",
+    "Name":"Sharp Corporation manufactures and sells telecommunication equipment",
+    "Sector":"Consumer Electronics",
+    "Symbol":"6753.T"
+},
+{
+    "ClosedPrice":"11580.0",
+    "CurrentPrice":"11595.0",
+    "Name":"Sony Group Corporation designs",
+    "Sector":"Consumer Electronics",
+    "Symbol":"6758.T"
+},
+{
+    "ClosedPrice":"4700.0",
+    "CurrentPrice":"4665.0",
+    "Name":"TDK Corporation",
+    "Sector":"Electronic Components",
+    "Symbol":"6762.T"
+},
+{
+    "ClosedPrice":"1285.0",
+    "CurrentPrice":"1275.0",
+    "Name":"Alps Alpine Co.",
+    "Sector":"Electronic Components",
+    "Symbol":"6770.T"
+},
+{
+    "ClosedPrice":"61740.0",
+    "CurrentPrice":"62270.0",
+    "Name":"Keyence Corporation",
+    "Sector":"Scientific & Technical Instruments",
+    "Symbol":"6861.T"
+},
+{
+    "ClosedPrice":"7108.0",
+    "CurrentPrice":"7068.0",
+    "Name":"DENSO Corporation develops",
+    "Sector":"Auto Parts",
+    "Symbol":"6902.T"
+},
+{
+    "ClosedPrice":"23085.0",
+    "CurrentPrice":"22910.0",
+    "Name":"Fanuc Corporation provides factory automation products in Japan",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"6954.T"
+},
+{
+    "ClosedPrice":"6848.0",
+    "CurrentPrice":"6838.0",
+    "Name":"Kyocera Corporation develops",
+    "Sector":"Conglomerates",
+    "Symbol":"6971.T"
+},
+{
+    "ClosedPrice":"7871.0",
+    "CurrentPrice":"7837.0",
+    "Name":"Murata Manufacturing Co.",
+    "Sector":"Electronic Components",
+    "Symbol":"6981.T"
+},
+{
+    "ClosedPrice":"2879.5",
+    "CurrentPrice":"2871.0",
+    "Name":"Canon Inc.",
+    "Sector":"Computer Hardware",
+    "Symbol":"7751.T"
+},
+{
+    "ClosedPrice":"982.0",
+    "CurrentPrice":"975.0",
+    "Name":"Ricoh Company",
+    "Sector":"Business Equipment & Supplies",
+    "Symbol":"7752.T"
+},
+{
+    "ClosedPrice":"49100.0",
+    "CurrentPrice":"50000.0",
+    "Name":"Tokyo Electron Limited",
+    "Sector":"Semiconductor Equipment & Materials",
+    "Symbol":"8035.T"
+},
+{
+    "ClosedPrice":"482.7",
+    "CurrentPrice":"480.7",
+    "Name":"Nissan Motor Co.",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7201.T"
+},
+{
+    "ClosedPrice":"1598.0",
+    "CurrentPrice":"1579.0",
+    "Name":"Isuzu Motors Limited manufactures and sells commercial vehicles",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7202.T"
+},
+{
+    "ClosedPrice":"1787.0",
+    "CurrentPrice":"1784.0",
+    "Name":"Toyota Motor Corporation designs",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7203.T"
+},
+{
+    "ClosedPrice":"527.0",
+    "CurrentPrice":"522.0",
+    "Name":"Hino Motors",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7205.T"
+},
+{
+    "ClosedPrice":"495.0",
+    "CurrentPrice":"493.0",
+    "Name":"Mitsubishi Motors Corporation",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7211.T"
+},
+{
+    "ClosedPrice":"1150.0",
+    "CurrentPrice":"1142.0",
+    "Name":"Mazda Motor Corporation manufactures and sells passenger cars and commercial vehicles in Japan",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7261.T"
+},
+{
+    "ClosedPrice":"3391.0",
+    "CurrentPrice":"3370.0",
+    "Name":"Honda Motor Co.",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7267.T"
+},
+{
+    "ClosedPrice":"4671.0",
+    "CurrentPrice":"4680.0",
+    "Name":"Suzuki Motor Corporation engages in the manufacturing and marketing of automobiles",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7269.T"
+},
+{
+    "ClosedPrice":"2066.5",
+    "CurrentPrice":"2063.0",
+    "Name":"Subaru Corporation manufactures and sells automobiles and aerospace products in Japan",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7270.T"
+},
+{
+    "ClosedPrice":"3205.0",
+    "CurrentPrice":"3195.0",
+    "Name":"Yamaha Motor Co.",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"7272.T"
+},
+{
+    "ClosedPrice":"3547.0",
+    "CurrentPrice":"3448.0",
+    "Name":"Terumo Corporation engages in the manufacture and sale of medical products and equipment worldwide. The company operates through three segments: Cardiac and Vascular Company",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"4543.T"
+},
+{
+    "ClosedPrice":"1320.0",
+    "CurrentPrice":"1324.0",
+    "Name":"Nikon Corporation manufactures and sells optical instruments in Japan",
+    "Sector":"Leisure",
+    "Symbol":"7731.T"
+},
+{
+    "ClosedPrice":"2240.0",
+    "CurrentPrice":"2234.0",
+    "Name":"Olympus Corporation manufactures and sells precision machineries and instruments worldwide. It operates through: Endoscopic Solutions Business",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"7733.T"
+},
+{
+    "ClosedPrice":"13945.0",
+    "CurrentPrice":"14120.0",
+    "Name":"HOYA Corporation",
+    "Sector":"Medical Instruments & Supplies",
+    "Symbol":"7741.T"
+},
+{
+    "ClosedPrice":"3988.0",
+    "CurrentPrice":"3969.0",
+    "Name":"Nippon Telegraph and Telephone Corporation provides fixed voice-related",
+    "Sector":"Telecom Services",
+    "Symbol":"9432.T"
+},
+{
+    "ClosedPrice":"4041.0",
+    "CurrentPrice":"4022.0",
+    "Name":"KDDI Corporation provides telecommunications services in Japan and internationally. It operates in two segments",
+    "Sector":"Telecom Services",
+    "Symbol":"9433.T"
+},
+{
+    "ClosedPrice":"1706.0",
+    "CurrentPrice":"1699.0",
+    "Name":"NTT DATA Corporation provides IT and business services worldwide. The company operates through Public & Social Infrastructure",
+    "Sector":"Information Technology Services",
+    "Symbol":"9613.T"
+},
+{
+    "ClosedPrice":"4960.0",
+    "CurrentPrice":"4972.0",
+    "Name":"SoftBank Group Corp. provides telecommunication services in Japan and internationally. It operates through five segments: Investment Business of Holding Companies",
+    "Sector":"Telecom Services",
+    "Symbol":"9984.T"
+},
+{
+    "ClosedPrice":"474.0",
+    "CurrentPrice":"475.0",
+    "Name":"Concordia Financial Group",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"7186.T"
+},
+{
+    "ClosedPrice":"839.2",
+    "CurrentPrice":"830.0",
+    "Name":"Mitsubishi UFJ Financial Group",
+    "Sector":"Banks\u00e2\u20ac\u201dDiversified",
+    "Symbol":"8306.T"
+},
+{
+    "ClosedPrice":"609.4",
+    "CurrentPrice":"593.5",
+    "Name":"Resona Holdings",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"8308.T"
+},
+{
+    "ClosedPrice":"4599.0",
+    "CurrentPrice":"4571.0",
+    "Name":"Sumitomo Mitsui Trust Holdings",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"8309.T"
+},
+{
+    "ClosedPrice":"5217.0",
+    "CurrentPrice":"5189.0",
+    "Name":"Sumitomo Mitsui Financial Group",
+    "Sector":"Banks\u00e2\u20ac\u201dDiversified",
+    "Symbol":"8316.T"
+},
+{
+    "ClosedPrice":"840.0",
+    "CurrentPrice":"832.0",
+    "Name":"The Chiba Bank",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"8331.T"
+},
+{
+    "ClosedPrice":"1857.5",
+    "CurrentPrice":"1843.5",
+    "Name":"Mizuho Financial Group",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"8411.T"
+},
+{
+    "ClosedPrice":"2180.0",
+    "CurrentPrice":"2141.0",
+    "Name":"ORIX Corporation provides diversified financial services in Japan",
+    "Sector":"Credit Services",
+    "Symbol":"8591.T"
+},
+{
+    "ClosedPrice":"2045.0",
+    "CurrentPrice":"2045.0",
+    "Name":"Japan Exchange Group",
+    "Sector":"Financial Data & Stock Exchanges",
+    "Symbol":"8697.T"
+},
+{
+    "ClosedPrice":"617.0",
+    "CurrentPrice":"612.0",
+    "Name":"Daiwa Securities Group Inc.",
+    "Sector":"Capital Markets",
+    "Symbol":"8601.T"
+},
+{
+    "ClosedPrice":"501.6",
+    "CurrentPrice":"497.3",
+    "Name":"Nomura Holdings",
+    "Sector":"Capital Markets",
+    "Symbol":"8604.T"
+},
+{
+    "ClosedPrice":"5333.0",
+    "CurrentPrice":"5311.0",
+    "Name":"Sompo Holdings",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"8630.T"
+},
+{
+    "ClosedPrice":"4125.0",
+    "CurrentPrice":"4103.0",
+    "Name":"MS&AD Insurance Group Holdings",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"8725.T"
+},
+{
+    "ClosedPrice":"2345.0",
+    "CurrentPrice":"2326.5",
+    "Name":"Dai-ichi Life Holdings",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"8750.T"
+},
+{
+    "ClosedPrice":"2571.5",
+    "CurrentPrice":"2541.0",
+    "Name":"Tokio Marine Holdings",
+    "Sector":"Insurance\u00e2\u20ac\u201dProperty & Casualty",
+    "Symbol":"8766.T"
+},
+{
+    "ClosedPrice":"1559.0",
+    "CurrentPrice":"1534.0",
+    "Name":"T&D Holdings",
+    "Sector":"Insurance\u00e2\u20ac\u201dLife",
+    "Symbol":"8795.T"
+},
+{
+    "ClosedPrice":"6400.0",
+    "CurrentPrice":"6400.0",
+    "Name":"Meiji Holdings Co.",
+    "Sector":"Packaged Foods",
+    "Symbol":"2269.T"
+},
+{
+    "ClosedPrice":"3925.0",
+    "CurrentPrice":"3945.0",
+    "Name":"NH Foods Ltd. engages in the meat processing and packing business in Japan and internationally. The company's Processed Foods Business division offers hams and sausages under the SCHAU ESSEN brand; and Chinese food meal kits under the Chuka Meisai brand; chilled pizzas under the Ishigama Kobo brand; and other meat products under the Hokkaido Carl Ramon and Kamakura Ham Tomioka brands. This segment also provides dairy products",
+    "Sector":"Packaged Foods",
+    "Symbol":"2282.T"
+},
+{
+    "ClosedPrice":"4764.0",
+    "CurrentPrice":"4781.0",
+    "Name":"Asahi Group Holdings",
+    "Sector":"Beverages\u00e2\u20ac\u201dBrewers",
+    "Symbol":"2502.T"
+},
+{
+    "ClosedPrice":"2090.0",
+    "CurrentPrice":"2053.5",
+    "Name":"Kirin Holdings Company",
+    "Sector":"Beverages\u00e2\u20ac\u201dBrewers",
+    "Symbol":"2503.T"
+},
+{
+    "ClosedPrice":"6460.0",
+    "CurrentPrice":"6540.0",
+    "Name":"Kikkoman Corporation",
+    "Sector":"Packaged Foods",
+    "Symbol":"2801.T"
+},
+{
+    "ClosedPrice":"4452.0",
+    "CurrentPrice":"4502.0",
+    "Name":"Ajinomoto Co.",
+    "Sector":"Packaged Foods",
+    "Symbol":"2802.T"
+},
+{
+    "ClosedPrice":"2723.5",
+    "CurrentPrice":"2723.0",
+    "Name":"Japan Tobacco Inc.",
+    "Sector":"Tobacco",
+    "Symbol":"2914.T"
+},
+{
+    "ClosedPrice":"5764.0",
+    "CurrentPrice":"5817.0",
+    "Name":"Seven & i Holdings Co.",
+    "Sector":"Grocery Stores",
+    "Symbol":"3382.T"
+},
+{
+    "ClosedPrice":"2524.5",
+    "CurrentPrice":"2533.0",
+    "Name":"Aeon Co.",
+    "Sector":"Department Stores",
+    "Symbol":"8267.T"
+},
+{
+    "ClosedPrice":"27650.0",
+    "CurrentPrice":"27370.0",
+    "Name":"Fast Retailing Co.",
+    "Sector":"Apparel Retail",
+    "Symbol":"9983.T"
+},
+{
+    "ClosedPrice":"3413.0",
+    "CurrentPrice":"3399.0",
+    "Name":"M3",
+    "Sector":"Health Information Services",
+    "Symbol":"2413.T"
+},
+{
+    "ClosedPrice":"2998.0",
+    "CurrentPrice":"2995.0",
+    "Name":"NEXON Co.",
+    "Sector":"Electronic Gaming & Multimedia",
+    "Symbol":"3659.T"
+},
+{
+    "ClosedPrice":"4525.0",
+    "CurrentPrice":"4495.0",
+    "Name":"Dentsu Group Inc. operates in the advertising business in Japan and internationally. It offers advertising services",
+    "Sector":"Advertising Agencies",
+    "Symbol":"4324.T"
+},
+{
+    "ClosedPrice":"382.3",
+    "CurrentPrice":"380.4",
+    "Name":"Z Holdings Corporation engages in media and commerce businesses in Japan. The company focuses on shopping and reuse businesses. It also offers membership",
+    "Sector":"Internet Retail",
+    "Symbol":"4689.T"
+},
+{
+    "ClosedPrice":"6370.0",
+    "CurrentPrice":"6370.0",
+    "Name":"Trend Micro Incorporated develops and sells security-related software for computers and the Internet primarily in Japan. The company offers hybrid cloud security solutions",
+    "Sector":"Software\u00e2\u20ac\u201dInfrastructure",
+    "Symbol":"4704.T"
+},
+{
+    "ClosedPrice":"638.0",
+    "CurrentPrice":"634.0",
+    "Name":"Rakuten Group",
+    "Sector":"Internet Retail",
+    "Symbol":"4755.T"
+},
+{
+    "ClosedPrice":"3660.0",
+    "CurrentPrice":"3725.0",
+    "Name":"Recruit Holdings Co.",
+    "Sector":"Staffing & Employment Services",
+    "Symbol":"6098.T"
+},
+{
+    "ClosedPrice":"1096.5",
+    "CurrentPrice":"1090.0",
+    "Name":"Japan Post Holdings Co.",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"6178.T"
+},
+{
+    "ClosedPrice":"5076.0",
+    "CurrentPrice":"5058.0",
+    "Name":"Nintendo Co.",
+    "Sector":"Electronic Gaming & Multimedia",
+    "Symbol":"7974.T"
+},
+{
+    "ClosedPrice":"4930.0",
+    "CurrentPrice":"4940.0",
+    "Name":"Toho Co.",
+    "Sector":"Entertainment",
+    "Symbol":"9602.T"
+},
+{
+    "ClosedPrice":"8116.0",
+    "CurrentPrice":"8126.0",
+    "Name":"SECOM CO.",
+    "Sector":"Security & Protection Services",
+    "Symbol":"9735.T"
+},
+{
+    "ClosedPrice":"6230.0",
+    "CurrentPrice":"6210.0",
+    "Name":"Konami Group Corporation",
+    "Sector":"Electronic Gaming & Multimedia",
+    "Symbol":"9766.T"
+},
+{
+    "ClosedPrice":"1371.0",
+    "CurrentPrice":"1353.0",
+    "Name":"Inpex Corporation engages in the research",
+    "Sector":"Oil & Gas E&P",
+    "Symbol":"1605.T"
+},
+{
+    "ClosedPrice":"747.1",
+    "CurrentPrice":"740.8",
+    "Name":"Toray Industries",
+    "Sector":"Textile Manufacturing",
+    "Symbol":"3402.T"
+},
+{
+    "ClosedPrice":"1167.0",
+    "CurrentPrice":"1169.0",
+    "Name":"Kuraray Co.",
+    "Sector":"Chemicals",
+    "Symbol":"3405.T"
+},
+{
+    "ClosedPrice":"909.2",
+    "CurrentPrice":"904.7",
+    "Name":"Asahi Kasei Corporation manufactures",
+    "Sector":"Chemicals",
+    "Symbol":"3407.T"
+},
+{
+    "ClosedPrice":"437.0",
+    "CurrentPrice":"436.0",
+    "Name":"Sumitomo Chemical Company",
+    "Sector":"Chemicals",
+    "Symbol":"4005.T"
+},
+{
+    "ClosedPrice":"1772.0",
+    "CurrentPrice":"1762.0",
+    "Name":"Tosoh Corporation manufactures and sells basic chemicals",
+    "Sector":"Chemicals",
+    "Symbol":"4042.T"
+},
+{
+    "ClosedPrice":"20430.0",
+    "CurrentPrice":"20885.0",
+    "Name":"Shin-Etsu Chemical Co.",
+    "Sector":"Chemicals",
+    "Symbol":"4063.T"
+},
+{
+    "ClosedPrice":"768.3",
+    "CurrentPrice":"763.9",
+    "Name":"Mitsubishi Chemical Group Corporation provides performance products",
+    "Sector":"Chemicals",
+    "Symbol":"4188.T"
+},
+{
+    "ClosedPrice":"5091.0",
+    "CurrentPrice":"5092.0",
+    "Name":"Kao Corporation develops and sells cosmetic",
+    "Sector":"Household & Personal Products",
+    "Symbol":"4452.T"
+},
+{
+    "ClosedPrice":"6500.0",
+    "CurrentPrice":"6480.0",
+    "Name":"FUJIFILM Holdings Corporation develops",
+    "Sector":"Business Equipment & Supplies",
+    "Symbol":"4901.T"
+},
+{
+    "ClosedPrice":"6000.0",
+    "CurrentPrice":"5990.0",
+    "Name":"Shiseido Company",
+    "Sector":"Household & Personal Products",
+    "Symbol":"4911.T"
+},
+{
+    "ClosedPrice":"8460.0",
+    "CurrentPrice":"8400.0",
+    "Name":"Nitto Denko Corporation primarily engages in the adhesive tapes business in Japan and internationally. It provides double sided tapes",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"6988.T"
+},
+{
+    "ClosedPrice":"463.9",
+    "CurrentPrice":"462.0",
+    "Name":"ENEOS Holdings",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"5020.T"
+},
+{
+    "ClosedPrice":"5192.0",
+    "CurrentPrice":"5172.0",
+    "Name":"Bridgestone Corporation",
+    "Sector":"Auto Parts",
+    "Symbol":"5108.T"
+},
+{
+    "ClosedPrice":"4800.0",
+    "CurrentPrice":"4820.0",
+    "Name":"AGC Inc. manufactures and sells glass",
+    "Sector":"Specialty Chemicals",
+    "Symbol":"5201.T"
+},
+{
+    "ClosedPrice":"4435.0",
+    "CurrentPrice":"4415.0",
+    "Name":"Toto Ltd. manufactures and sells bathroom and kitchen plumbing fixtures worldwide. It provides sanitary ware comprising toilet basins",
+    "Sector":"Building Products & Equipment",
+    "Symbol":"5332.T"
+},
+{
+    "ClosedPrice":"1717.0",
+    "CurrentPrice":"1715.0",
+    "Name":"NGK Insulators",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"5333.T"
+},
+{
+    "ClosedPrice":"3019.0",
+    "CurrentPrice":"2999.5",
+    "Name":"Nippon Steel Corporation engages in steelmaking and steel fabrication",
+    "Sector":"Steel",
+    "Symbol":"5401.T"
+},
+{
+    "ClosedPrice":"1599.0",
+    "CurrentPrice":"1602.0",
+    "Name":"JFE Holdings",
+    "Sector":"Steel",
+    "Symbol":"5411.T"
+},
+{
+    "ClosedPrice":"4943.0",
+    "CurrentPrice":"4905.0",
+    "Name":"Sumitomo Metal Mining Co.",
+    "Sector":"Other Industrial Metals & Mining",
+    "Symbol":"5713.T"
+},
+{
+    "ClosedPrice":"1631.0",
+    "CurrentPrice":"1630.5",
+    "Name":"Sumitomo Electric Industries",
+    "Sector":"Auto Parts",
+    "Symbol":"5802.T"
+},
+{
+    "ClosedPrice":"4164.0",
+    "CurrentPrice":"4125.0",
+    "Name":"ITOCHU Corporation engages in trading and importing/exporting various products worldwide. The company's Textile segment produces and sells fiber and garment materials",
+    "Sector":"Conglomerates",
+    "Symbol":"8001.T"
+},
+{
+    "ClosedPrice":"1726.5",
+    "CurrentPrice":"1720.0",
+    "Name":"Marubeni Corporation engages in various business activities worldwide. The company trades in grains",
+    "Sector":"Conglomerates",
+    "Symbol":"8002.T"
+},
+{
+    "ClosedPrice":"5300.0",
+    "CurrentPrice":"5270.0",
+    "Name":"Toyota Tsusho Corporation engages in the metals",
+    "Sector":"Conglomerates",
+    "Symbol":"8015.T"
+},
+{
+    "ClosedPrice":"3772.0",
+    "CurrentPrice":"3731.0",
+    "Name":"Mitsui & Co.",
+    "Sector":"Conglomerates",
+    "Symbol":"8031.T"
+},
+{
+    "ClosedPrice":"2271.0",
+    "CurrentPrice":"2268.0",
+    "Name":"Sumitomo Corporation engages in general trading business worldwide. It operates through six segments: Metal Products; Transportation & Construction Systems; Infrastructure; Media & Digital; Living Related & Real Estate; and Mineral Resources",
+    "Sector":"Conglomerates",
+    "Symbol":"8053.T"
+},
+{
+    "ClosedPrice":"4633.0",
+    "CurrentPrice":"4586.0",
+    "Name":"Mitsubishi Corporation engages in the natural gas",
+    "Sector":"Conglomerates",
+    "Symbol":"8058.T"
+},
+{
+    "ClosedPrice":"4060.0",
+    "CurrentPrice":"4010.0",
+    "Name":"Taisei Corporation engages in the civil engineering",
+    "Sector":"Engineering & Construction",
+    "Symbol":"1801.T"
+},
+{
+    "ClosedPrice":"990.0",
+    "CurrentPrice":"996.0",
+    "Name":"Obayashi Corporation engages in the construction business in Japan",
+    "Sector":"Engineering & Construction",
+    "Symbol":"1802.T"
+},
+{
+    "ClosedPrice":"743.0",
+    "CurrentPrice":"740.0",
+    "Name":"Shimizu Corporation engages in the building contracting",
+    "Sector":"Engineering & Construction",
+    "Symbol":"1803.T"
+},
+{
+    "ClosedPrice":"1574.0",
+    "CurrentPrice":"1568.0",
+    "Name":"Kajima Corporation engages in civil engineering",
+    "Sector":"Engineering & Construction",
+    "Symbol":"1812.T"
+},
+{
+    "ClosedPrice":"3088.0",
+    "CurrentPrice":"3084.0",
+    "Name":"Daiwa House Industry Co.",
+    "Sector":"Real Estate\u00e2\u20ac\u201dDevelopment",
+    "Symbol":"1925.T"
+},
+{
+    "ClosedPrice":"2657.0",
+    "CurrentPrice":"2656.5",
+    "Name":"Sekisui House",
+    "Sector":"Residential Construction",
+    "Symbol":"1928.T"
+},
+{
+    "ClosedPrice":"68530.0",
+    "CurrentPrice":"68290.0",
+    "Name":"SMC Corporation manufactures",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"6273.T"
+},
+{
+    "ClosedPrice":"3210.0",
+    "CurrentPrice":"3202.0",
+    "Name":"Komatsu Ltd. manufactures and sells construction",
+    "Sector":"Farm & Heavy Construction Machinery",
+    "Symbol":"6301.T"
+},
+{
+    "ClosedPrice":"1938.5",
+    "CurrentPrice":"1910.0",
+    "Name":"Kubota Corporation manufactures and markets machinery and related solutions in the food",
+    "Sector":"Farm & Heavy Construction Machinery",
+    "Symbol":"6326.T"
+},
+{
+    "ClosedPrice":"22910.0",
+    "CurrentPrice":"22950.0",
+    "Name":"Daikin Industries",
+    "Sector":"Building Products & Equipment",
+    "Symbol":"6367.T"
+},
+{
+    "ClosedPrice":"734.0",
+    "CurrentPrice":"731.0",
+    "Name":"NSK Ltd.",
+    "Sector":"Auto Parts",
+    "Symbol":"6471.T"
+},
+{
+    "ClosedPrice":"973.0",
+    "CurrentPrice":"961.0",
+    "Name":"JTEKT Corporation manufactures and sells steering systems",
+    "Sector":"Auto Parts",
+    "Symbol":"6473.T"
+},
+{
+    "ClosedPrice":"4575.0",
+    "CurrentPrice":"4599.0",
+    "Name":"Mitsubishi Heavy Industries",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"7011.T"
+},
+{
+    "ClosedPrice":"2768.0",
+    "CurrentPrice":"2761.0",
+    "Name":"Kawasaki Heavy Industries",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"7012.T"
+},
+{
+    "ClosedPrice":"8394.0",
+    "CurrentPrice":"8422.0",
+    "Name":"BANDAI NAMCO Holdings Inc. develops entertainment-related products and services worldwide. It offers toys",
+    "Sector":"Leisure",
+    "Symbol":"7832.T"
+},
+{
+    "ClosedPrice":"2541.0",
+    "CurrentPrice":"2524.0",
+    "Name":"Toppan Inc. develops solutions based on its printing technologies. The company offers security documents",
+    "Sector":"Specialty Business Services",
+    "Symbol":"7911.T"
+},
+{
+    "ClosedPrice":"3640.0",
+    "CurrentPrice":"3620.0",
+    "Name":"Dai Nippon Printing Co.",
+    "Sector":"Specialty Business Services",
+    "Symbol":"7912.T"
+},
+{
+    "ClosedPrice":"2401.5",
+    "CurrentPrice":"2367.0",
+    "Name":"Mitsui Fudosan Co.",
+    "Sector":"Real Estate\u00e2\u20ac\u201dDiversified",
+    "Symbol":"8801.T"
+},
+{
+    "ClosedPrice":"1553.5",
+    "CurrentPrice":"1546.0",
+    "Name":"Mitsubishi Estate Co.",
+    "Sector":"Real Estate\u00e2\u20ac\u201dDiversified",
+    "Symbol":"8802.T"
+},
+{
+    "ClosedPrice":"2904.5",
+    "CurrentPrice":"2882.5",
+    "Name":"Sumitomo Realty & Development Co.",
+    "Sector":"Real Estate Services",
+    "Symbol":"8830.T"
+},
+{
+    "ClosedPrice":"3125.0",
+    "CurrentPrice":"3115.0",
+    "Name":"Tobu Railway Co.",
+    "Sector":"Railroads",
+    "Symbol":"9001.T"
+},
+{
+    "ClosedPrice":"1711.0",
+    "CurrentPrice":"1719.0",
+    "Name":"Tokyu Corporation",
+    "Sector":"Department Stores",
+    "Symbol":"9005.T"
+},
+{
+    "ClosedPrice":"1645.0",
+    "CurrentPrice":"1682.0",
+    "Name":"Odakyu Electric Railway Co.",
+    "Sector":"Railroads",
+    "Symbol":"9007.T"
+},
+{
+    "ClosedPrice":"7213.0",
+    "CurrentPrice":"7225.0",
+    "Name":"East Japan Railway Company operates as a passenger railway company in Japan and internationally. The company operates through Transportation",
+    "Sector":"Railroads",
+    "Symbol":"9020.T"
+},
+{
+    "ClosedPrice":"5308.0",
+    "CurrentPrice":"5299.0",
+    "Name":"West Japan Railway Company provides passenger railway transport services in Japan. The company operates through Transportation Operations",
+    "Sector":"Railroads",
+    "Symbol":"9021.T"
+},
+{
+    "ClosedPrice":"15515.0",
+    "CurrentPrice":"15505.0",
+    "Name":"Central Japan Railway Company engages in the railway and related businesses in Japan. The company operates through Transportation",
+    "Sector":"Railroads",
+    "Symbol":"9022.T"
+},
+{
+    "ClosedPrice":"2224.0",
+    "CurrentPrice":"2213.0",
+    "Name":"Yamato Holdings Co.",
+    "Sector":"Trucking",
+    "Symbol":"9064.T"
+},
+{
+    "ClosedPrice":"2772.5",
+    "CurrentPrice":"2783.0",
+    "Name":"ANA Holdings Inc.",
+    "Sector":"Airlines",
+    "Symbol":"9202.T"
+},
+{
+    "ClosedPrice":"449.0",
+    "CurrentPrice":"453.0",
+    "Name":"Tokyo Electric Power Company Holdings",
+    "Sector":"Utilities\u00e2\u20ac\u201dRenewable",
+    "Symbol":"9501.T"
+},
+{
+    "ClosedPrice":"1389.0",
+    "CurrentPrice":"1403.0",
+    "Name":"Chubu Electric Power Company",
+    "Sector":"Utilities\u00e2\u20ac\u201dDiversified",
+    "Symbol":"9502.T"
+},
+{
+    "ClosedPrice":"1258.0",
+    "CurrentPrice":"1277.0",
+    "Name":"The Kansai Electric Power Company",
+    "Sector":"Utilities\u00e2\u20ac\u201dRenewable",
+    "Symbol":"9503.T"
+},
+{
+    "ClosedPrice":"2487.0",
+    "CurrentPrice":"2497.0",
+    "Name":"Tokyo Gas Co.",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Gas",
+    "Symbol":"9531.T"
+},
+{
+    "ClosedPrice":"2208.0",
+    "CurrentPrice":"2202.0",
+    "Name":"Osaka Gas Co.",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Gas",
+    "Symbol":"9532.T"
+},
+{
+    "ClosedPrice":"2927.7",
+    "CurrentPrice":"2909.6",
+    "Name":"Eicher Motors Limited",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"EICHERMOT.NS"
+},
+{
+    "ClosedPrice":"952.25",
+    "CurrentPrice":"951.2",
+    "Name":"Godrej Consumer Products Limited",
+    "Sector":"Household & Personal Products",
+    "Symbol":"GODREJCP.NS"
+},
+{
+    "ClosedPrice":"2569.85",
+    "CurrentPrice":"2559.9",
+    "Name":"Housing Development Finance Corporation Limited provides housing finance to individuals and corporate customers in India. It operates through Loans",
+    "Sector":"Mortgage Finance",
+    "Symbol":"HDFC.NS"
+},
+{
+    "ClosedPrice":"479.35",
+    "CurrentPrice":"477.2",
+    "Name":"Marico Limited",
+    "Sector":"Household & Personal Products",
+    "Symbol":"MARICO.NS"
+},
+{
+    "ClosedPrice":"19044.45",
+    "CurrentPrice":"18953.1",
+    "Name":"Nestl\u00c3\u00a9 India Limited manufactures and sells food products in India. The company provides milk products and nutrition",
+    "Sector":"Packaged Foods",
+    "Symbol":"NESTLEIND.NS"
+},
+{
+    "ClosedPrice":"25413.15",
+    "CurrentPrice":"25511.65",
+    "Name":"Shree Cement Limited manufactures and sells cement and clinker in India and internationally. It offers cement under the Roofon",
+    "Sector":"Building Materials",
+    "Symbol":"SHREECEM.NS"
+},
+{
+    "ClosedPrice":"372.15",
+    "CurrentPrice":"371.8",
+    "Name":"Ambuja Cements Limited",
+    "Sector":"Building Materials",
+    "Symbol":"AMBUJACEM.NS"
+},
+{
+    "ClosedPrice":"848.8",
+    "CurrentPrice":"839.9",
+    "Name":"Axis Bank Limited provides various financial products and services. It operates through four segments: Treasury",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"AXISBANK.NS"
+},
+{
+    "ClosedPrice":"74.3",
+    "CurrentPrice":"71.8",
+    "Name":"Bharat Heavy Electricals Limited operates as engineering and manufacturing company in India. The company operates in two segments: Power and Industry. It offers thermal power plants",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"BHEL.NS"
+},
+{
+    "ClosedPrice":"18427.8",
+    "CurrentPrice":"18452.65",
+    "Name":"Bosch Limited manufactures and trades in automotive products in India and internationally. The company operates through Automotive Products",
+    "Sector":"Auto Parts",
+    "Symbol":"BOSCHLTD.NS"
+},
+{
+    "ClosedPrice":"348.35",
+    "CurrentPrice":"345.4",
+    "Name":"Bharat Petroleum Corporation Limited refines crude oil and markets petroleum products in India. The company operates through two segments",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"BPCL.NS"
+},
+{
+    "ClosedPrice":"869.1",
+    "CurrentPrice":"877.25",
+    "Name":"Cipla Limited",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dGeneral",
+    "Symbol":"CIPLA.NS"
+},
+{
+    "ClosedPrice":"213.35",
+    "CurrentPrice":"208.45",
+    "Name":"Coal India Limited",
+    "Sector":"Thermal Coal",
+    "Symbol":"COALINDIA.NS"
+},
+{
+    "ClosedPrice":"539.4",
+    "CurrentPrice":"536.4",
+    "Name":"Dabur India Limited operates as a fast-moving consumer goods company worldwide. It operates through Consumer Care Business",
+    "Sector":"Household & Personal Products",
+    "Symbol":"DABUR.NS"
+},
+{
+    "ClosedPrice":"4446.95",
+    "CurrentPrice":"4464.15",
+    "Name":"Dr. Reddy's Laboratories Limited",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"DRREDDY.NS"
+},
+{
+    "ClosedPrice":"105.1",
+    "CurrentPrice":"103.5",
+    "Name":"GAIL (India) Limited operates as a natural gas processing and distribution company in India and internationally. The company operates through Transmission Services",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Gas",
+    "Symbol":"GAIL.NS"
+},
+{
+    "ClosedPrice":"1605.95",
+    "CurrentPrice":"1594.3",
+    "Name":"Grasim Industries Limited operates in fibre",
+    "Sector":"Building Materials",
+    "Symbol":"GRASIM.NS"
+},
+{
+    "ClosedPrice":"1065.9",
+    "CurrentPrice":"1051.75",
+    "Name":"HCL Technologies Limited offers software development",
+    "Sector":"Information Technology Services",
+    "Symbol":"HCLTECH.NS"
+},
+{
+    "ClosedPrice":"1563.15",
+    "CurrentPrice":"1560.65",
+    "Name":"HDFC Bank Limited provides banking and financial services to individuals and businesses in India",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"HDFCBANK.NS"
+},
+{
+    "ClosedPrice":"398.8",
+    "CurrentPrice":"388.4",
+    "Name":"Hindalco Industries Limited",
+    "Sector":"Aluminum",
+    "Symbol":"HINDALCO.NS"
+},
+{
+    "ClosedPrice":"242.7",
+    "CurrentPrice":"238.85",
+    "Name":"Hindustan Petroleum Corporation Limited refines and markets petroleum products in India and internationally. The company operates through Downstream Petroleum and All Other segments. It offers petrol",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"HINDPETRO.NS"
+},
+{
+    "ClosedPrice":"855.45",
+    "CurrentPrice":"852.4",
+    "Name":"ICICI Bank Limited provides various banking products and services in India and internationally. It operates through Retail Banking",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"ICICIBANK.NS"
+},
+{
+    "ClosedPrice":"6.45",
+    "CurrentPrice":"6.25",
+    "Name":"Vodafone Idea Limited provides mobile telecommunication services in India. It offers voice and data services on 2G",
+    "Sector":"Telecom Services",
+    "Symbol":"IDEA.NS"
+},
+{
+    "ClosedPrice":"1374.55",
+    "CurrentPrice":"1380.65",
+    "Name":"Infosys Limited",
+    "Sector":"Information Technology Services",
+    "Symbol":"INFY.NS"
+},
+{
+    "ClosedPrice":"79.0",
+    "CurrentPrice":"78.4",
+    "Name":"Indian Oil Corporation Limited",
+    "Sector":"Oil & Gas Refining & Marketing",
+    "Symbol":"IOC.NS"
+},
+{
+    "ClosedPrice":"380.65",
+    "CurrentPrice":"378.7",
+    "Name":"ITC Limited engages in the fast-moving consumer goods",
+    "Sector":"Tobacco",
+    "Symbol":"ITC.NS"
+},
+{
+    "ClosedPrice":"667.8",
+    "CurrentPrice":"657.8",
+    "Name":"JSW Steel Limited engages in the manufacture and sale of iron and steel products in India and internationally. The company provides hot rolled and cold-rolled coils",
+    "Sector":"Steel",
+    "Symbol":"JSWSTEEL.NS"
+},
+{
+    "ClosedPrice":"1679.7",
+    "CurrentPrice":"1692.15",
+    "Name":"Kotak Mahindra Bank Limited provides banking and financial services to corporate and individual customers in India. It operates through Treasury",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"KOTAKBANK.NS"
+},
+{
+    "ClosedPrice":"2206.65",
+    "CurrentPrice":"2166.15",
+    "Name":"Larsen & Toubro Limited engages in engineering",
+    "Sector":"Engineering & Construction",
+    "Symbol":"LT.NS"
+},
+{
+    "ClosedPrice":"648.55",
+    "CurrentPrice":"640.0",
+    "Name":"Lupin Limited",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"LUPIN.NS"
+},
+{
+    "ClosedPrice":"1164.95",
+    "CurrentPrice":"1150.8",
+    "Name":"Mahindra & Mahindra Limited provides mobility products and farm solutions in India and internationally. The company operates through Automotive",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"M&M.NS"
+},
+{
+    "ClosedPrice":"8353.2",
+    "CurrentPrice":"8242.9",
+    "Name":"Maruti Suzuki India Limited manufactures",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"MARUTI.NS"
+},
+{
+    "ClosedPrice":"174.6",
+    "CurrentPrice":"172.7",
+    "Name":"NTPC Limited generates and sells bulk power to state power utilities in India. It operates in two segments",
+    "Sector":"Utilities\u00e2\u20ac\u201dRegulated Electric",
+    "Symbol":"NTPC.NS"
+},
+{
+    "ClosedPrice":"152.8",
+    "CurrentPrice":"149.4",
+    "Name":"Oil and Natural Gas Corporation Limited explores for",
+    "Sector":"Oil & Gas Integrated",
+    "Symbol":"ONGC.NS"
+},
+{
+    "ClosedPrice":"152.35",
+    "CurrentPrice":"148.15",
+    "Name":"Power Finance Corporation Limited",
+    "Sector":"Credit Services",
+    "Symbol":"PFC.NS"
+},
+{
+    "ClosedPrice":"512.75",
+    "CurrentPrice":"505.35",
+    "Name":"State Bank of India provides banking products and services to individuals",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"SBIN.NS"
+},
+{
+    "ClosedPrice":"3324.95",
+    "CurrentPrice":"3333.45",
+    "Name":"Siemens Limited manufactures and sells electric motors",
+    "Sector":"Specialty Industrial Machinery",
+    "Symbol":"SIEMENS.NS"
+},
+{
+    "ClosedPrice":"977.65",
+    "CurrentPrice":"972.85",
+    "Name":"Sun Pharmaceutical Industries Limited",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"SUNPHARMA.NS"
+},
+{
+    "ClosedPrice":"104.9",
+    "CurrentPrice":"102.1",
+    "Name":"Tata Steel Limited manufactures and distributes steel products in India and internationally. It operates in Tata Steel India",
+    "Sector":"Steel",
+    "Symbol":"TATASTEEL.NS"
+},
+{
+    "ClosedPrice":"3124.65",
+    "CurrentPrice":"3120.5",
+    "Name":"Tata Consultancy Services Limited provides information technology (IT) and IT enabled services worldwide. The company operates through Banking",
+    "Sector":"Information Technology Services",
+    "Symbol":"TCS.NS"
+},
+{
+    "ClosedPrice":"1099.45",
+    "CurrentPrice":"1101.95",
+    "Name":"Tech Mahindra Limited provides information technology (IT) services and solutions in the Americas",
+    "Sector":"Information Technology Services",
+    "Symbol":"TECHM.NS"
+},
+{
+    "ClosedPrice":"2519.05",
+    "CurrentPrice":"2493.35",
+    "Name":"Titan Company Limited",
+    "Sector":"Luxury Goods",
+    "Symbol":"TITAN.NS"
+},
+{
+    "ClosedPrice":"361.5",
+    "CurrentPrice":"361.75",
+    "Name":"Wipro Limited operates as an information technology (IT)",
+    "Sector":"Information Technology Services",
+    "Symbol":"WIPRO.NS"
+},
+{
+    "ClosedPrice":"15.2",
+    "CurrentPrice":"15.05",
+    "Name":"Yes Bank Limited provides various banking products and services. It operates through Treasury",
+    "Sector":"Banks\u00e2\u20ac\u201dRegional",
+    "Symbol":"YESBANK.NS"
+},
+{
+    "ClosedPrice":"216.0",
+    "CurrentPrice":"211.75",
+    "Name":"Zee Entertainment Enterprises Limited",
+    "Sector":"Broadcasting",
+    "Symbol":"ZEEL.NS"
+},
+{
+    "ClosedPrice":"65.25",
+    "CurrentPrice":"64.75",
+    "Name":"Samvardhana Motherson International Limited engages in the manufacture and sale of components for automotive original equipment manufacturers in India and internationally. The company offers interior and exterior mirrors",
+    "Sector":"Auto Parts",
+    "Symbol":"MOTHERSON.NS"
+},
+{
+    "ClosedPrice":"709.7",
+    "CurrentPrice":"696.9",
+    "Name":"UPL Limited engages in the provision of sustainable agriculture products and solutions in India and internationally. It operates through two segments",
+    "Sector":"Agricultural Inputs",
+    "Symbol":"UPL.NS"
+},
+{
+    "ClosedPrice":"271.25",
+    "CurrentPrice":"269.75",
+    "Name":"Vedanta Limited operates as a diversified natural resources company in India. It explores for",
+    "Sector":"Other Industrial Metals & Mining",
+    "Symbol":"VEDL.NS"
+},
+{
+    "ClosedPrice":"482.3",
+    "CurrentPrice":"480.7",
+    "Name":"Zydus Lifesciences Limited engages in the research",
+    "Sector":"Drug Manufacturers\u00e2\u20ac\u201dSpecialty & Generic",
+    "Symbol":"ZYDUSLIFE.NS"
+},
+{
+    "ClosedPrice":"763.55",
+    "CurrentPrice":"762.45",
+    "Name":"Bharti Airtel Limited operates as a telecommunications company in Asia and Africa. It operates through Mobile Services India",
+    "Sector":"Telecom Services",
+    "Symbol":"BHARTIARTL.NS"
+},
+{
+    "ClosedPrice":"3862.95",
+    "CurrentPrice":"3827.9",
+    "Name":"Bajaj Auto Limited develops",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"BAJAJ-AUTO.NS"
+},
+{
+    "ClosedPrice":"7407.95",
+    "CurrentPrice":"7405.65",
+    "Name":"UltraTech Cement Limited",
+    "Sector":"Building Materials",
+    "Symbol":"ULTRACEMCO.NS"
+},
+{
+    "ClosedPrice":"2362.5",
+    "CurrentPrice":"2313.35",
+    "Name":"Hero MotoCorp Limited manufactures and sells motorized two wheelers",
+    "Sector":"Auto Manufacturers",
+    "Symbol":"HEROMOTOCO.NS"
+},
+{
+    "ClosedPrice":"1290.0",
+    "CurrentPrice":"1240.65",
+    "Name":"Bajaj Finserv Ltd.",
+    "Sector":"Financial Conglomerates",
+    "Symbol":"BAJAJFINSV.NS"
+},
+{} ]

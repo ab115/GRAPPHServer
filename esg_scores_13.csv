@@ -1,0 +1,10 @@
+symbol,socialScore,governanceScore,environmentScore,totalEsg,esgPerformance,percentile,peerGroup,highestControversy
+MMM,13.56,7.72,12.33,33.61,OUT_PERF,74.68,Industrial Conglomerates,3.0
+AOS,11.87,6.27,7.29,25.43,AVG_PERF,46.64,Machinery,0.0
+ABT,13.59,8.36,3.03,24.98,AVG_PERF,44.01,Healthcare,3.0
+ABBV,16.77,9.95,1.12,27.84,AVG_PERF,55.08,Pharmaceuticals,3.0
+ACN,4.58,4.83,0.29,9.71,LAG_PERF,2.21,Software & Services,2.0
+ATVI,12.48,6.31,0.15,18.94,UNDER_PERF,21.96,Software & Services,4.0
+ADM,13.16,5.01,18.23,36.4,OUT_PERF,82.67,Food Products,3.0
+ADBE,5.93,4.64,1.89,12.46,UNDER_PERF,5.31,Software & Services,1.0
+AAP,8.29,3.11,0.11,11.52,UNDER_PERF,4.01,Retailing,2.0

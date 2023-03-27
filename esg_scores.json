@@ -1,0 +1,100 @@
+[{
+    "environmentScore":"12.33",
+    "esgPerformance":"OUT_PERF",
+    "governanceScore":"7.72",
+    "highestControversy":"3.0",
+    "peerGroup":"Industrial Conglomerates",
+    "percentile":"74.68",
+    "socialScore":"13.56",
+    "symbol":"MMM",
+    "totalEsg":"33.61"
+},
+{
+    "environmentScore":"7.29",
+    "esgPerformance":"AVG_PERF",
+    "governanceScore":"6.27",
+    "highestControversy":"0.0",
+    "peerGroup":"Machinery",
+    "percentile":"46.64",
+    "socialScore":"11.87",
+    "symbol":"AOS",
+    "totalEsg":"25.43"
+},
+{
+    "environmentScore":"3.03",
+    "esgPerformance":"AVG_PERF",
+    "governanceScore":"8.36",
+    "highestControversy":"3.0",
+    "peerGroup":"Healthcare",
+    "percentile":"44.01",
+    "socialScore":"13.59",
+    "symbol":"ABT",
+    "totalEsg":"24.98"
+},
+{
+    "environmentScore":"1.12",
+    "esgPerformance":"AVG_PERF",
+    "governanceScore":"9.95",
+    "highestControversy":"3.0",
+    "peerGroup":"Pharmaceuticals",
+    "percentile":"55.08",
+    "socialScore":"16.77",
+    "symbol":"ABBV",
+    "totalEsg":"27.84"
+},
+{
+    "environmentScore":"0.29",
+    "esgPerformance":"LAG_PERF",
+    "governanceScore":"4.83",
+    "highestControversy":"2.0",
+    "peerGroup":"Software & Services",
+    "percentile":"2.21",
+    "socialScore":"4.58",
+    "symbol":"ACN",
+    "totalEsg":"9.71"
+},
+{
+    "environmentScore":"0.15",
+    "esgPerformance":"UNDER_PERF",
+    "governanceScore":"6.31",
+    "highestControversy":"4.0",
+    "peerGroup":"Software & Services",
+    "percentile":"21.96",
+    "socialScore":"12.48",
+    "symbol":"ATVI",
+    "totalEsg":"18.94"
+},
+{
+    "environmentScore":"18.23",
+    "esgPerformance":"OUT_PERF",
+    "governanceScore":"5.01",
+    "highestControversy":"3.0",
+    "peerGroup":"Food Products",
+    "percentile":"82.67",
+    "socialScore":"13.16",
+    "symbol":"ADM",
+    "totalEsg":"36.4"
+},
+{
+    "environmentScore":"1.89",
+    "esgPerformance":"UNDER_PERF",
+    "governanceScore":"4.64",
+    "highestControversy":"1.0",
+    "peerGroup":"Software & Services",
+    "percentile":"5.31",
+    "socialScore":"5.93",
+    "symbol":"ADBE",
+    "totalEsg":"12.46"
+},
+{
+    "environmentScore":"0.11",
+    "esgPerformance":"UNDER_PERF",
+    "governanceScore":"3.11",
+    "highestControversy":"2.0",
+    "peerGroup":"Retailing",
+    "percentile":"4.01",
+    "socialScore":"8.29",
+    "symbol":"AAP",
+    "totalEsg":"11.52"
+},
+{} ]
