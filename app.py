@@ -11,14 +11,14 @@ from edge import *
 from edge_risk_kit import *
 import edge_risk_kit as erk
 from tqdm.notebook import tqdm
-import yahooquery as yf
+import yfinance as yf
 import jsons
 
 from sklearn import preprocessing
 from sklearn.linear_model import LinearRegression, Ridge, Lasso
 from sklearn.model_selection import train_test_split
 from datetime import datetime, timedelta
-#from climada.entity import ImpactFunc
+from climada.entity import ImpactFunc
 
 app = Flask(__name__)
 #cors = CORS(app, resources={r"/*": {"origins": "*"}})
@@ -193,10 +193,10 @@ def get_security_data():
         return jsonify("Successfully fetched security scores"), 200
 
 @app.route('/get_security_prices', methods=['GET'])
-def get_security_prices():
+def get_security_prices(pticker):
         start_date = '2013-01-01'
         end_date = '2023-03-23'
-        snp = pd.read_csv(DATA_FOLDER + 'Portfolio_workshop_draft.csv', encoding='unicode-escape')
+        snp = pd.read_csv(DATA_FOLDER + 'Portfolio.csv', encoding='unicode-escape')
         snp.set_index('Symbol', inplace=True)
         tickers = snp.index.to_list()
         data = yf.download(tickers, start=start_date, end=end_date)
@@ -204,10 +204,23 @@ def get_security_prices():
         px = prices.loc['2013':].dropna(axis=1, how='all')
         px.to_csv(DATA_FOLDER + 'prices.csv')
 
+        if pticker != None:
+                stickers = []
+                stickers.append(str(pticker))
+                stickers.append(str('12345'))
+                sdata = yf.download(stickers, start=start_date, end=end_date)
+                pxfrom = sdata['Adj Close'][stickers]
+                print(pxfrom)
+                pxto = pd.read_csv('prices.csv', encoding='unicode-escape')
+                pxto.set_index('Date', inplace=True)
+                pxto[request.form.get('pticker')] = pxfrom[request.form.get('pticker')]
+                pxto.to_csv('prices.csv')
+                return jsonify("Success building prices ..... "), 200
+
         return jsonify("Success building prices"), 200
 
 def do_analytics():        
-        snp = pd.read_csv(DATA_FOLDER + 'snp500_constituents.csv')
+        snp = pd.read_csv(DATA_FOLDER + 'Portfolio.csv')
         snp.set_index('Symbol', inplace=True)
         px = pd.read_csv(DATA_FOLDER + 'prices.csv')
         px.Date = pd.to_datetime(px.Date)
@@ -215,7 +228,7 @@ def do_analytics():
         px = px[px.columns[px.count() == px.count().max()]]
         esg_data = pd.read_csv(DATA_FOLDER + 'esg_scores.csv')
         security_data = pd.read_csv(DATA_FOLDER + 'security_data.csv')
-        esg_data.set_index('symbol', inplace=True)
+        esg_data.set_index('Symbol', inplace=True)
         security_data.set_index('symbol', inplace=True)
         rets_monthly, cov_monthly = calcRetsCov(px, 'M')
         rets_period = rets_monthly
@@ -253,7 +266,7 @@ def do_panalysis():
         score_list = ['socialScore', 'governanceScore', 'environmentScore', 'totalEsg']
         num_of_stocks = 30
 
-        snp = pd.read_csv(DATA_FOLDER + 'snp500_constituents.csv')
+        snp = pd.read_csv(DATA_FOLDER + 'Portfolio.csv')
         snp.set_index('Symbol', inplace=True)
         px = pd.read_csv(DATA_FOLDER + 'prices.csv')
         px.Date = pd.to_datetime(px.Date)
@@ -313,7 +326,7 @@ def portfolioVsBenchmark():
         score_list = ['socialScore', 'governanceScore', 'environmentScore', 'totalEsg']
         num_of_stocks = 30
 
-        snp = pd.read_csv(DATA_FOLDER + 'snp500_constituents.csv')
+        snp = pd.read_csv(DATA_FOLDER + 'Portfolio.csv')
         snp.set_index('Symbol', inplace=True)
         px = pd.read_csv(DATA_FOLDER + 'prices.csv')
         px.Date = pd.to_datetime(px.Date)
@@ -593,34 +606,34 @@ def get_portfolio_yield():
         
         return jsonify ("success in build porfolio yield"), 200
 
-#@app.get('/get_damage_ratio')
-#def get_damage_ratio():
-#        # We initialise a dummy ImpactFunc for tropical cyclone wind damage to building.
-#        # Giving the ImpactFunc an arbitrary id 3.
-#        haz_type = "TC"
-#        id = 3
-#        name = "TC building damage"
-#        # provide unit of the hazard intensity
-#        intensity_unit = "m/s"
-#        # provide values for the hazard intensity, mdd, and paa
-#        intensity = np.linspace(0, 100, num=15)
-#        mdd = np.concatenate((np.array([0]), np.sort(np.random.rand(14))), axis=0)
-#        paa = np.concatenate((np.array([0]), np.sort(np.random.rand(14))), axis=0)
-#        imp_fun = ImpactFunc(
-#        id=id,
-#        name=name,
-#        intensity_unit=intensity_unit,
-#        haz_type=haz_type,
-#        intensity=intensity,
-#        mdd=mdd,
-#        paa=paa,
-#        )
+@app.get('/get_damage_ratio')
+def get_damage_ratio():
+        # We initialise a dummy ImpactFunc for tropical cyclone wind damage to building.
+        # Giving the ImpactFunc an arbitrary id 3.
+        haz_type = "TC"
+        id = 3
+        name = "TC building damage"
+        # provide unit of the hazard intensity
+        intensity_unit = "m/s"
+        # provide values for the hazard intensity, mdd, and paa
+        intensity = np.linspace(0, 100, num=15)
+        mdd = np.concatenate((np.array([0]), np.sort(np.random.rand(14))), axis=0)
+        paa = np.concatenate((np.array([0]), np.sort(np.random.rand(14))), axis=0)
+        imp_fun = ImpactFunc(
+        id=id,
+        name=name,
+        intensity_unit=intensity_unit,
+        haz_type=haz_type,
+        intensity=intensity,
+        mdd=mdd,
+        paa=paa,
+        )
 
         # check if the all the attributes are set correctly
-#        imp_fun.check()
-#        damage_ratio = imp_fun.calc_mdr(18.7)
+        imp_fun.check()
+        damage_ratio = imp_fun.calc_mdr(18.7)
         
-#        return damage_ratio        
+        return damage_ratio        
 
         if __name__ == '__main__':
             app.run('0.0.0.0', port=8099)
