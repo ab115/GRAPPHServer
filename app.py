@@ -18,6 +18,7 @@ from sklearn import preprocessing
 from sklearn.linear_model import LinearRegression, Ridge, Lasso
 from sklearn.model_selection import train_test_split
 from datetime import datetime, timedelta
+#from climada.entity import ImpactFunc
 
 app = Flask(__name__)
 #cors = CORS(app, resources={r"/*": {"origins": "*"}})
@@ -33,7 +34,6 @@ class GraphData:
                 self.gLabels = pLabels
                 self.gDataBM = pDataBM
                 self.gDataPF = pDataPF
-
 
 @app.get('/get_esg_scores')
 def get_esg_scores():
@@ -293,7 +293,6 @@ def do_panalysis():
         return_port = pd.DataFrame(return_port)
         wealth_port = pd.DataFrame(wealth_port)
         
-        
         df = pd.DataFrame()
         df['totalEsg'] = return_port.get("totalEsg")
         df['bmk'] = return_port.get("bmk")
@@ -367,7 +366,7 @@ def portfolioVsBenchmark():
         response.content_type = 'application/json'
         return response, 200
 
-##Havent called those methods
+
 @app.get('/add_ticker')
 def add_ticker():
         ticker = request.args.get('pticker')
@@ -385,7 +384,7 @@ def add_ticker():
                 field_names = ['Symbol', 'Name', 'Sector', 'CurrentPrice', 'ClosedPrice', 'MarketCap', 'Country']
                 dict = {"Symbol": ticker, "Name": lArray[0], "Sector": sector,
                         "CurrentPrice": curr, "ClosedPrice": cls, "MarketCap": marketCap, "Country": country}
-                with open ('Portfolio.csv','a',newline='') as csv_file:
+                with open (DATA_FOLDER + 'Portfolio.csv','a',newline='') as csv_file:
                         dict_object = csv.DictWriter(csv_file, fieldnames=field_names)
                         dict_object.writerow(dict)
                         csv_file.close()
@@ -408,7 +407,7 @@ def add_ticker():
                                                        'MarketCap', 'Country']
                                         dict = {"Symbol": ticker, "Name": lArray[0], "Sector": sector,
                                                 "CurrentPrice": curr, "ClosedPrice": cls, "MarketCap": marketCap, "Country": country}
-                                        with open('Portfolio_workshop_draft.csv', 'a', newline='') as csv_file:
+                                        with open('Portfolio.csv', 'a', newline='') as csv_file:
                                                 dict_object = csv.DictWriter(csv_file, fieldnames=field_names)
                                                 dict_object.writerow(dict)
                                                 csv_file.close()
@@ -416,14 +415,17 @@ def add_ticker():
                                         print(e)
                                         continue
 
+        if ticker  != None and ticker  != '':
+                add_esg_to_portfolio()
+                add_weightage_to_stocks_in_portfolio()
+        
         result = ""
-        with open("Portfolio_workshop_draft.csv", "r+") as file:
+        with open(DATA_FOLDER + "Portfolio.csv", "r+") as file:
                 for line in file:
                         if not line.isspace():
                                 result += line
                 file.seek(0)
                 file.write(result)
-        
         response = make_response("Saved Successfully")
         response.headers['Access-Control-Allow-Origin'] = '*' 
         response.content_type = 'application/json'
@@ -431,6 +433,7 @@ def add_ticker():
 
 def getDiscountRate(event, change_level):
         return 5
+        #return get_damage_ratio
         
 @app.get('/calculate_sealevel_change_impact')
 def calculate_sealevel_change_impact ():
@@ -555,8 +558,70 @@ def add_weightage_to_stocks_in_portfolio():
         dfto.to_csv('Portfolio_workshop_draft.csv')
         return jsonify("Weightage successfully added to Portfolio"), 200
 
-     
+@app.route('/get_portfolio_yield', methods=['GET'])
+def get_portfolio_yield():
+        date_df = open(DATA_FOLDER + 'date_criteria.txt', encoding='unicode-escape')
+        snp = pd.read_csv(DATA_FOLDER + 'Portfolio.csv', encoding='unicode-escape')
+        snp.set_index('Symbol', inplace=True)
+        snp.head()
+        tickers = snp.index.to_list()
+
+        px = pd.read_csv(DATA_FOLDER + 'prices.csv')
+        px.Date = pd.to_datetime(px.Date)
+        px.set_index('Date', inplace=True)
+        rows = []
+        with open(DATA_FOLDER + 'date_criteria.txt') as dt_file:
+                for date_item in dt_file:
+                        pv = 0
+                        for ticker in tickers:
+                                try:
+                                        in_date = date_item.strip()
+                                        in_pv = 0
+                                        if math.isnan(px[ticker][date_item.strip()]):
+                                                in_pv = 0
+                                        else:
+                                                in_pv = (px[ticker][date_item.strip()]*snp['Weightage'][ticker])
+                                        pv = pv + in_pv
+                                except Exception as e:
+                                        print(e)
+                                        continue
+                        rows.append([date_item.strip(), pv])
+        with open('portfolioyield.csv', 'w', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerows(rows)
+                file.close()
+        
+        return jsonify ("success in build porfolio yield"), 200
+
+#@app.get('/get_damage_ratio')
+#def get_damage_ratio():
+#        # We initialise a dummy ImpactFunc for tropical cyclone wind damage to building.
+#        # Giving the ImpactFunc an arbitrary id 3.
+#        haz_type = "TC"
+#        id = 3
+#        name = "TC building damage"
+#        # provide unit of the hazard intensity
+#        intensity_unit = "m/s"
+#        # provide values for the hazard intensity, mdd, and paa
+#        intensity = np.linspace(0, 100, num=15)
+#        mdd = np.concatenate((np.array([0]), np.sort(np.random.rand(14))), axis=0)
+#        paa = np.concatenate((np.array([0]), np.sort(np.random.rand(14))), axis=0)
+#        imp_fun = ImpactFunc(
+#        id=id,
+#        name=name,
+#        intensity_unit=intensity_unit,
+#        haz_type=haz_type,
+#        intensity=intensity,
+#        mdd=mdd,
+#        paa=paa,
+#        )
+
+        # check if the all the attributes are set correctly
+#        imp_fun.check()
+#        damage_ratio = imp_fun.calc_mdr(18.7)
+        
+#        return damage_ratio        
+
         if __name__ == '__main__':
             app.run('0.0.0.0', port=8099)
-            app.debug = True
-            
+            app.debug = True           
